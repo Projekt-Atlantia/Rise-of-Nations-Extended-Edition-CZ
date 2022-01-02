@@ -1,0 +1,3 @@
+# Ignorování projektu editoru Sublime
+*.sublime-project
+*.sublime-workspace
