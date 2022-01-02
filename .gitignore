@@ -1,3 +1,13 @@
-# Ignorování projektu editoru Sublime
+
+# Gitignore vytvořen pod záštitou Projektu Atlantia
+#
+# Chráněno licencí Creative Commons BY-NC-ND 4.0
+#
+# Lze jej tedy bezplatně šířit dále i jej upravovat se zachováním
+# a uvedením originálního autora jímž je Projekt Atlantia.
+#
+# Stránka projektu:
+
+# Ignorování projektu editoru Sublime Text
 *.sublime-project
 *.sublime-workspace
