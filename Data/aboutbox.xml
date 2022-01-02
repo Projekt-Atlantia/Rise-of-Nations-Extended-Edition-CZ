@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by Scott Lewis (Big Huge Games) -->
 <!-- edited with XMLSPY v5 U (http://www.xmlspy.com) by Jason Coleman (private) -->
-<!--LOCALIZATION -->
-<!--LOCALIZATION -->
+<!--
+
+Český překlad vytvořen pod záštitou Projektu Atlantia
+
+Chráněno licencí Creative Commons BY-NC-ND 4.0
+
+Lze jej tedy bezplatně šířit dále i jej upravovat se zachováním
+a uvedením originálního autora jímž je Projekt Atlantia.
+
+Stránka překladu:
+Hlášení chyb:
+GitHub repozitář: https://github.com/Projekt-Atlantia/Rise-of-Nations-Extended-Edition-CZ
+Steam Workshop:
+
+-->
 <!--LOCALIZATION LEGAL element (only one)-->
-<!--LOCALIZATION -->
-<!--LOCALIZATION -->
 <ROOT>
   <LEGAL>
-    <LINE>© 2017 Skybox Labs. Portions © 2017 Microsoft Corporation. All rights reserved. Microsoft, Windows, DirectDraw, DirectPlay, DirectSound, DirectX, the Microsoft Game Studios logo, MSN, Rise of Nations, and Thrones and Patriots are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries.</LINE>
+    <LINE>© 2017 Skybox Labs. Portions © 2017 Microsoft Corporation. Všechna práva vyhrazena. Microsoft, Windows, DirectDraw, DirectPlay, DirectSound, DirectX, Microsoft Game Studios logo, MSN, Rise of Nations, a Thrones and Patriots jsou registrované obchodní známky nebo registrované obchodní známky společnosti Microsoft ve Spojených státech Amerických a jiných zemích.</LINE>
     <SPACE/>
-    <LINE>Warning: This computer program is protected by copyright law and international treaties. Unauthorized reproduction or distribution of this program, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.</LINE>
+    <LINE>Varování: Tato hra je chráněna autorským zákonem a mezinárodními smlouvami. Neoprávnění reprodukce či distribuce této hry nebo jakýkoliv její části může mít za následek přísné občanskoprávní či trestní postihy a bude stíhána v maximální možné míře podle zákona.</LINE>
   </LEGAL>
   <REG_KEY>SOFTWARE\Big Huge Games\RiseOfNationsExpansion\1.0</REG_KEY>
   <REG_KEY_TRIAL>SOFTWARE\Microsoft\Microsoft Games\RiseOfNations Trial\1.0</REG_KEY_TRIAL>
