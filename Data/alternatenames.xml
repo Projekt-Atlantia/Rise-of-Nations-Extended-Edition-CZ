@@ -17,284 +17,284 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
   <!-- LOCALIZATION: All STRING elements under ALTERNATENAMES/EPOCHTYPE and ALTERNATENAMES2/EPOCHTYPE-->
   <ALTERNATENAMES>
     <EPOCHTYPE name="Written Word">
-      <STRING>Psaní</STRING>
-      <STRING>Vzdělání</STRING>
-      <STRING>Deduktivní uvažování</STRING>
-      <STRING>Biologie</STRING>
-      <STRING>Anatomie</STRING>
-      <STRING>Termodynamika</STRING>
-      <STRING>Statistika</STRING>
-      <STRING>Nukleární fyzika</STRING>
+      <STRING>Written Word Psaní</STRING>
+      <STRING>Written Word Vzdělání</STRING>
+      <STRING>Written Word Deduktivní uvažování</STRING>
+      <STRING>Written Word Biologie</STRING>
+      <STRING>Written Word Anatomie</STRING>
+      <STRING>Written Word Termodynamika</STRING>
+      <STRING>Written Word Statistika</STRING>
+      <STRING>Written Word Nukleární fyzika</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Mathematics">
-      <STRING>Zavlažování</STRING>
-      <STRING>Matematika</STRING>
-      <STRING>Měření času</STRING>
-      <STRING>Empirismus</STRING>
-      <STRING>Mechanická energie</STRING>
-      <STRING>Elektromagnetismus </STRING>
-      <STRING>Akustika</STRING>
-      <STRING>Genetika</STRING>
+      <STRING>Mathematics Zavlažování</STRING>
+      <STRING>Mathematics Matematika</STRING>
+      <STRING>Mathematics Měření času</STRING>
+      <STRING>Mathematics Empirismus</STRING>
+      <STRING>Mathematics Mechanická energie</STRING>
+      <STRING>Mathematics Elektromagnetismus </STRING>
+      <STRING>Mathematics Akustika</STRING>
+      <STRING>Mathematics Genetika</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Chemistry">
-      <STRING>Pozorování nebes</STRING>
-      <STRING>Vodní energie</STRING>
-      <STRING>Chemie</STRING>
-      <STRING>Vědecké metody</STRING>
-      <STRING>Výpočty</STRING>
-      <STRING>Farmakologie</STRING>
-      <STRING>Relativita</STRING>
-      <STRING>Kvantová mechanika</STRING>
+      <STRING>Chemistry Pozorování nebes</STRING>
+      <STRING>Chemistry Vodní energie</STRING>
+      <STRING>Chemistry Chemie</STRING>
+      <STRING>Chemistry Vědecké metody</STRING>
+      <STRING>Chemistry Výpočty</STRING>
+      <STRING>Chemistry Farmakologie</STRING>
+      <STRING>Chemistry Relativita</STRING>
+      <STRING>Chemistry Kvantová mechanika</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Laws of Nature">
-      <STRING>Vliv</STRING>
-      <STRING>Teplota</STRING>
-      <STRING>Zahradnictví</STRING>
-      <STRING>Přírodní zákony</STRING>
-      <STRING>Geologie</STRING>
-      <STRING>Imunizace</STRING>
-      <STRING>Mikrobiologie</STRING>
-      <STRING>Mikročipy</STRING>
+      <STRING>Laws of Nature Vliv</STRING>
+      <STRING>Laws of Nature Teplota</STRING>
+      <STRING>Laws of Nature Zahradnictví</STRING>
+      <STRING>Laws of Nature Přírodní zákony</STRING>
+      <STRING>Laws of Nature Geologie</STRING>
+      <STRING>Laws of Nature Imunizace</STRING>
+      <STRING>Laws of Nature Mikrobiologie</STRING>
+      <STRING>Laws of Nature Mikročipy</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Electricity">
-      <STRING>Kalendář</STRING>
-      <STRING>Větrná energie</STRING>
-      <STRING>Astronomie</STRING>
-      <STRING>Nářečí</STRING>
-      <STRING>Elektrifikace</STRING>
-      <STRING>Aerodynamika</STRING>
-      <STRING>Antibiotika</STRING>
-      <STRING>Astrofyzika</STRING>
+      <STRING>Electricity Kalendář</STRING>
+      <STRING>Electricity Větrná energie</STRING>
+      <STRING>Electricity Astronomie</STRING>
+      <STRING>Electricity Nářečí</STRING>
+      <STRING>Electricity Elektrifikace</STRING>
+      <STRING>Electricity Aerodynamika</STRING>
+      <STRING>Electricity Antibiotika</STRING>
+      <STRING>Electricity Astrofyzika</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Electronics">
-      <STRING>Váhy a míry</STRING>
-      <STRING>Astrologie</STRING>
-      <STRING>Strojírenství</STRING>
-      <STRING>Vědecká literatura</STRING>
-      <STRING>Botanika</STRING>
-      <STRING>Elektronika</STRING>
-      <STRING>Meteorologie</STRING>
-      <STRING>Laserová technologie</STRING>
+      <STRING>Electronics Váhy a míry</STRING>
+      <STRING>Electronics Astrologie</STRING>
+      <STRING>Electronics Strojírenství</STRING>
+      <STRING>Electronics Vědecká literatura</STRING>
+      <STRING>Electronics Botanika</STRING>
+      <STRING>Electronics Elektronika</STRING>
+      <STRING>Electronics Meteorologie</STRING>
+      <STRING>Electronics Laserová technologie</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Computerization">
-      <STRING>Přenos tepla</STRING>
-      <STRING>Zdravotnictví</STRING>
-      <STRING>Optika</STRING>
-      <STRING>Fyzika</STRING>
-      <STRING>Evoluce</STRING>
-      <STRING>Vodní elektřina</STRING>
-      <STRING>Automatizace</STRING>
-      <STRING>Vláknová optika</STRING>
+      <STRING>Computerization Přenos tepla</STRING>
+      <STRING>Computerization Zdravotnictví</STRING>
+      <STRING>Computerization Optika</STRING>
+      <STRING>Computerization Fyzika</STRING>
+      <STRING>Computerization Evoluce</STRING>
+      <STRING>Computerization Vodní elektřina</STRING>
+      <STRING>Computerization Automatizace</STRING>
+      <STRING>Computerization Vláknová optika</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Barter">
-      <STRING>Výměnný obchod</STRING>
-      <STRING>Cesty</STRING>
-      <STRING>Kartografie</STRING>
-      <STRING>Kompas</STRING>
-      <STRING>Zeměpisné souřadnice</STRING>
-      <STRING>Měna</STRING>
-      <STRING>Manufaktura</STRING>
-      <STRING>Super dálnice</STRING>
+      <STRING>Barter Výměnný obchod</STRING>
+      <STRING>Barter Cesty</STRING>
+      <STRING>Barter Kartografie</STRING>
+      <STRING>Barter Kompas</STRING>
+      <STRING>Barter Zeměpisné souřadnice</STRING>
+      <STRING>Barter Měna</STRING>
+      <STRING>Barter Manufaktura</STRING>
+      <STRING>Barter Super dálnice</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Coinage">
-      <STRING>Chov zvířat</STRING>
-      <STRING>Ražba</STRING>
-      <STRING>Hvězdná navigace</STRING>
-      <STRING>Zeměpisné souřadnice</STRING>
-      <STRING>Bankovnictví</STRING>
-      <STRING>Telefony</STRING>
-      <STRING>Masová média</STRING>
-      <STRING>Fiskální nařízení</STRING>
+      <STRING>Coinage Chov zvířat</STRING>
+      <STRING>Coinage Ražba</STRING>
+      <STRING>Coinage Hvězdná navigace</STRING>
+      <STRING>Coinage Zeměpisné souřadnice</STRING>
+      <STRING>Coinage Bankovnictví</STRING>
+      <STRING>Coinage Telefony</STRING>
+      <STRING>Coinage Masová média</STRING>
+      <STRING>Coinage Fiskální nařízení</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Trade">
-      <STRING>Řemeslnictví</STRING>
-      <STRING>Průzkumnictví</STRING>
-      <STRING>Obchod</STRING>
-      <STRING>Geografie</STRING>
-      <STRING>Železnice</STRING>
-      <STRING>Burza</STRING>
-      <STRING>Peněžní rezervy</STRING>
-      <STRING>Satelitní komunikace</STRING>
+      <STRING>Trade Řemeslnictví</STRING>
+      <STRING>Trade Průzkumnictví</STRING>
+      <STRING>Trade Obchod</STRING>
+      <STRING>Trade Geografie</STRING>
+      <STRING>Trade Železnice</STRING>
+      <STRING>Trade Burza</STRING>
+      <STRING>Trade Peněžní rezervy</STRING>
+      <STRING>Trade Satelitní komunikace</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Mercantilism">
-      <STRING>Kontejnery</STRING>
-      <STRING>Psací potřeby</STRING>
-      <STRING>Papírové bankovky</STRING>
-      <STRING>Merkantilismus</STRING>
-      <STRING>Poštovní služby</STRING>
-      <STRING>Antimonopolní legislativa</STRING>
-      <STRING>Reklama</STRING>
-      <STRING>Recyklace</STRING>
+      <STRING>Mercantilism Kontejnery</STRING>
+      <STRING>Mercantilism Psací potřeby</STRING>
+      <STRING>Mercantilism Papírové bankovky</STRING>
+      <STRING>Mercantilism Merkantilismus</STRING>
+      <STRING>Mercantilism Poštovní služby</STRING>
+      <STRING>Mercantilism Antimonopolní legislativa</STRING>
+      <STRING>Mercantilism Reklama</STRING>
+      <STRING>Mercantilism Recyklace</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Finance">
-      <STRING>Tkaní</STRING>
-      <STRING>Trámové mosty</STRING>
-      <STRING>Měrné jednotky</STRING>
-      <STRING>Zeměměřictví</STRING>
-      <STRING>Finance</STRING>
-      <STRING>Rádio</STRING>
-      <STRING>Precizní řemeslnictví</STRING>
-      <STRING>Volný obchod</STRING>
+      <STRING>Finance Tkaní</STRING>
+      <STRING>Finance Trámové mosty</STRING>
+      <STRING>Finance Měrné jednotky</STRING>
+      <STRING>Finance Zeměměřictví</STRING>
+      <STRING>Finance Finance</STRING>
+      <STRING>Finance Rádio</STRING>
+      <STRING>Finance Precizní řemeslnictví</STRING>
+      <STRING>Finance Volný obchod</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Assembly Line">
-      <STRING>Kolo</STRING>
-      <STRING>Počítadlo</STRING>
-      <STRING>Lingvistika</STRING>
-      <STRING>Kanalizace</STRING>
-      <STRING>Účetnictví</STRING>
-      <STRING>Montážní linky</STRING>
-      <STRING>Televize</STRING>
-      <STRING>Internet</STRING>
+      <STRING>Assembly Line Kolo</STRING>
+      <STRING>Assembly Line Počítadlo</STRING>
+      <STRING>Assembly Line Lingvistika</STRING>
+      <STRING>Assembly Line Kanalizace</STRING>
+      <STRING>Assembly Line Účetnictví</STRING>
+      <STRING>Assembly Line Montážní linky</STRING>
+      <STRING>Assembly Line Televize</STRING>
+      <STRING>Assembly Line Internet</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Globalization">
-      <STRING>Směrnice</STRING>
-      <STRING>Papír a pergamen</STRING>
-      <STRING>Úplatky</STRING>
-      <STRING>Měnová směna</STRING>
-      <STRING>Ochranné tarify</STRING>
-      <STRING>Fotografie a filmy</STRING>
-      <STRING>Globalizace</STRING>
-      <STRING>Bezdrátové technologie</STRING>
+      <STRING>Globalization Směrnice</STRING>
+      <STRING>Globalization Papír a pergamen</STRING>
+      <STRING>Globalization Úplatky</STRING>
+      <STRING>Globalization Měnová směna</STRING>
+      <STRING>Globalization Ochranné tarify</STRING>
+      <STRING>Globalization Fotografie a filmy</STRING>
+      <STRING>Globalization Globalizace</STRING>
+      <STRING>Globalization Bezdrátové technologie</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="City State">
-      <STRING>Městský stát</STRING>
-      <STRING>Vláda</STRING>
-      <STRING>Suverenita</STRING>
-      <STRING>Politika</STRING>
-      <STRING>Lidská práva</STRING>
-      <STRING>Konstituční monarchie</STRING>
-      <STRING>Populismus</STRING>
-      <STRING>Občanská práva</STRING>
+      <STRING>City State Městský stát</STRING>
+      <STRING>City State Vláda</STRING>
+      <STRING>City State Suverenita</STRING>
+      <STRING>City State Politika</STRING>
+      <STRING>City State Lidská práva</STRING>
+      <STRING>City State Konstituční monarchie</STRING>
+      <STRING>City State Populismus</STRING>
+      <STRING>City State Občanská práva</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Empire">
-      <STRING>Tradice a rituály</STRING>
-      <STRING>Císařství</STRING>
-      <STRING>Státní pokladna</STRING>
-      <STRING>Kolonialismus</STRING>
-      <STRING>Federalismus</STRING>
-      <STRING>Pakty a aliance</STRING>
-      <STRING>Interní příjmy</STRING>
-      <STRING>Obnova měst</STRING>
+      <STRING>Empire Tradice a rituály</STRING>
+      <STRING>Empire Císařství</STRING>
+      <STRING>Empire Státní pokladna</STRING>
+      <STRING>Empire Kolonialismus</STRING>
+      <STRING>Empire Federalismus</STRING>
+      <STRING>Empire Pakty a aliance</STRING>
+      <STRING>Empire Interní příjmy</STRING>
+      <STRING>Empire Obnova měst</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Feudalism">
-      <STRING>Spisy a dekrety</STRING>
-      <STRING>Senát</STRING>
-      <STRING>Feudalismus</STRING>
-      <STRING>Policie</STRING>
-      <STRING>Rovnováha sil</STRING>
-      <STRING>Právní stát</STRING>
-      <STRING>Správa rozpočtu</STRING>
-      <STRING>Vládní etika</STRING>
+      <STRING>Feudalism Spisy a dekrety</STRING>
+      <STRING>Feudalism Senát</STRING>
+      <STRING>Feudalism Feudalismus</STRING>
+      <STRING>Feudalism Policie</STRING>
+      <STRING>Feudalism Rovnováha sil</STRING>
+      <STRING>Feudalism Právní stát</STRING>
+      <STRING>Feudalism Správa rozpočtu</STRING>
+      <STRING>Feudalism Vládní etika</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Divine Right">
-      <STRING>Uctívání předků</STRING>
-      <STRING>Soudci</STRING>
-      <STRING>Státní služba</STRING>
-      <STRING>Božské právo</STRING>
-      <STRING>Listina práv a svobod</STRING>
-      <STRING>Reálpolitika</STRING>
-      <STRING>Volební právo</STRING>
-      <STRING>Veřejný názor</STRING>
+      <STRING>Divine Right Uctívání předků</STRING>
+      <STRING>Divine Right Soudci</STRING>
+      <STRING>Divine Right Státní služba</STRING>
+      <STRING>Divine Right Božské právo</STRING>
+      <STRING>Divine Right Listina práv a svobod</STRING>
+      <STRING>Divine Right Reálpolitika</STRING>
+      <STRING>Divine Right Volební právo</STRING>
+      <STRING>Divine Right Veřejný názor</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Constitution">
-      <STRING>Vládnoucí shromáždění</STRING>
-      <STRING>Soudnictví</STRING>
-      <STRING>Státnictví</STRING>
-      <STRING>Byrokracie</STRING>
-      <STRING>Ústavní právo</STRING>
-      <STRING>Společnost národů</STRING>
-      <STRING>Nový úděl</STRING>
-      <STRING>Kompromisy</STRING>
+      <STRING>Constitution Vládnoucí shromáždění</STRING>
+      <STRING>Constitution Soudnictví</STRING>
+      <STRING>Constitution Státnictví</STRING>
+      <STRING>Constitution Byrokracie</STRING>
+      <STRING>Constitution Ústavní právo</STRING>
+      <STRING>Constitution Společnost národů</STRING>
+      <STRING>Constitution Nový úděl</STRING>
+      <STRING>Constitution Kompromisy</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Great Power">
-      <STRING>Občanská práva</STRING>
-      <STRING>Legislativa</STRING>
-      <STRING>Soudnictví</STRING>
-      <STRING>Odvětví vlády</STRING>
-      <STRING>Volební právo</STRING>
-      <STRING>Velká síla</STRING>
-      <STRING>Spojené státy</STRING>
-      <STRING>Zachování</STRING>
+      <STRING>Great Power Občanská práva</STRING>
+      <STRING>Great Power Legislativa</STRING>
+      <STRING>Great Power Soudnictví</STRING>
+      <STRING>Great Power Odvětví vlády</STRING>
+      <STRING>Great Power Volební právo</STRING>
+      <STRING>Great Power Velká síla</STRING>
+      <STRING>Great Power Spojené státy</STRING>
+      <STRING>Great Power Zachování</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="International Law">
-      <STRING>Civilní záznamy</STRING>
-      <STRING>Morálnost</STRING>
-      <STRING>Despotismus</STRING>
-      <STRING>Revoluce</STRING>
-      <STRING>Stranická politika</STRING>
-      <STRING>Regionalismus</STRING>
-      <STRING>Mezinárodní právo</STRING>
-      <STRING>Nový světový řád</STRING>
+      <STRING>International Law Civilní záznamy</STRING>
+      <STRING>International Law Morálnost</STRING>
+      <STRING>International Law Despotismus</STRING>
+      <STRING>International Law Revoluce</STRING>
+      <STRING>International Law Stranická politika</STRING>
+      <STRING>International Law Regionalismus</STRING>
+      <STRING>International Law Mezinárodní právo</STRING>
+      <STRING>International Law Nový světový řád</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="The Art of War">
-      <STRING>Umění války</STRING>
-      <STRING>Důstojnický sbor</STRING>
-      <STRING>Feudální dávky</STRING>
-      <STRING>Palebná síla</STRING>
-      <STRING>Vojenská akademie</STRING>
-      <STRING>Generální štáb</STRING>
-      <STRING>Vojenská rozvědka</STRING>
-      <STRING>Vojensko-průmyslový komplex</STRING>
+      <STRING>The Art of War Umění války</STRING>
+      <STRING>The Art of War Důstojnický sbor</STRING>
+      <STRING>The Art of War Feudální dávky</STRING>
+      <STRING>The Art of War Palebná síla</STRING>
+      <STRING>The Art of War Vojenská akademie</STRING>
+      <STRING>The Art of War Generální štáb</STRING>
+      <STRING>The Art of War Vojenská rozvědka</STRING>
+      <STRING>The Art of War Vojensko-průmyslový komplex</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Mercenaries">
-      <STRING>Vojsko</STRING>
-      <STRING>Žoldáci</STRING>
-      <STRING>Muži ve zbrani</STRING>
-      <STRING>Puškaři</STRING>
-      <STRING>Národní garda</STRING>
-      <STRING>Taktika kombinovaných zbraní</STRING>
-      <STRING>Psychologická válka</STRING>
-      <STRING>Protipovstalecká válka</STRING>
+      <STRING>Mercenaries Vojsko</STRING>
+      <STRING>Mercenaries Žoldáci</STRING>
+      <STRING>Mercenaries Muži ve zbrani</STRING>
+      <STRING>Mercenaries Puškaři</STRING>
+      <STRING>Mercenaries Národní garda</STRING>
+      <STRING>Mercenaries Taktika kombinovaných zbraní</STRING>
+      <STRING>Mercenaries Psychologická válka</STRING>
+      <STRING>Mercenaries Protipovstalecká válka</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Standing Army">
-      <STRING>Armády</STRING>
-      <STRING>Generalita</STRING>
-      <STRING>Stálá armáda</STRING>
-      <STRING>Balistika</STRING>
-      <STRING>Logistická podpora</STRING>
-      <STRING>Klamání</STRING>
-      <STRING>Radar a sonar</STRING>
-      <STRING>Univerzální armádní služby</STRING>
+      <STRING>Standing Army Armády</STRING>
+      <STRING>Standing Army Generalita</STRING>
+      <STRING>Standing Army Stálá armáda</STRING>
+      <STRING>Standing Army Balistika</STRING>
+      <STRING>Standing Army Logistická podpora</STRING>
+      <STRING>Standing Army Klamání</STRING>
+      <STRING>Standing Army Radar a sonar</STRING>
+      <STRING>Standing Army Univerzální armádní služby</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Conscription">
-      <STRING>Výcvik</STRING>
-      <STRING>Nábor vojáků</STRING>
-      <STRING>Rytířství</STRING>
-      <STRING>Branná povinnost</STRING>
-      <STRING>Nepravidelná válka</STRING>
-      <STRING>Zákopová válka</STRING>
-      <STRING>Řízená munice</STRING>
-      <STRING>Sjednocené ozbrojené služby</STRING>
+      <STRING>Conscription Výcvik</STRING>
+      <STRING>Conscription Nábor vojáků</STRING>
+      <STRING>Conscription Rytířství</STRING>
+      <STRING>Conscription Branná povinnost</STRING>
+      <STRING>Conscription Nepravidelná válka</STRING>
+      <STRING>Conscription Zákopová válka</STRING>
+      <STRING>Conscription Řízená munice</STRING>
+      <STRING>Conscription Sjednocené ozbrojené služby</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Levee en Masse">
-      <STRING>Disciplína</STRING>
-      <STRING>Strategie</STRING>
-      <STRING>Plátové brnění</STRING>
-      <STRING>Vojenské hodnosti</STRING>
-      <STRING>Masové odvody</STRING>
-      <STRING>Taktika infiltrace</STRING>
-      <STRING>Partyzánská taktika</STRING>
-      <STRING>Precizní zbraně</STRING>
+      <STRING>Levee en Masse Disciplína</STRING>
+      <STRING>Levee en Masse Strategie</STRING>
+      <STRING>Levee en Masse Plátové brnění</STRING>
+      <STRING>Levee en Masse Vojenské hodnosti</STRING>
+      <STRING>Levee en Masse Masové odvody</STRING>
+      <STRING>Levee en Masse Taktika infiltrace</STRING>
+      <STRING>Levee en Masse Partyzánská taktika</STRING>
+      <STRING>Levee en Masse Precizní zbraně</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Nation-in-Arms">
-      <STRING>Formace</STRING>
-      <STRING>Vojenské sklady</STRING>
-      <STRING>Vojenské právo</STRING>
-      <STRING>Morálka</STRING>
-      <STRING>Signalizace</STRING>
-      <STRING>Národ ve zbrani</STRING>
-      <STRING>Kombinované operace</STRING>
-      <STRING>Elektronická válka</STRING>
+      <STRING>Nation-in-Arms Formace</STRING>
+      <STRING>Nation-in-Arms Vojenské sklady</STRING>
+      <STRING>Nation-in-Arms Vojenské právo</STRING>
+      <STRING>Nation-in-Arms Morálka</STRING>
+      <STRING>Nation-in-Arms Signalizace</STRING>
+      <STRING>Nation-in-Arms Národ ve zbrani</STRING>
+      <STRING>Nation-in-Arms Kombinované operace</STRING>
+      <STRING>Nation-in-Arms Elektronická válka</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Selective Service">
-      <STRING>Vojenský výcvik</STRING>
-      <STRING>Podpalovače</STRING>
-      <STRING>Vojenská služba</STRING>
-      <STRING>Utajení</STRING>
-      <STRING>Totální válka</STRING>
-      <STRING>Blesková válka</STRING>
-      <STRING>Selektivní služba</STRING>
-      <STRING>Domobrana</STRING>
+      <STRING>Selective Service Vojenský výcvik</STRING>
+      <STRING>Selective Service Podpalovače</STRING>
+      <STRING>Selective Service Vojenská služba</STRING>
+      <STRING>Selective Service Utajení</STRING>
+      <STRING>Selective Service Totální válka</STRING>
+      <STRING>Selective Service Blesková válka</STRING>
+      <STRING>Selective Service Selektivní služba</STRING>
+      <STRING>Selective Service Domobrana</STRING>
     </EPOCHTYPE>
   </ALTERNATENAMES>
   <ALTERNATENAMES2>
@@ -329,34 +329,34 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <STRING>Strategie</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Religion">
-      <STRING>Náboženství</STRING>
-      <STRING>Náboženství</STRING>
-      <STRING>Náboženství</STRING>
-      <STRING>Reformace</STRING>
-      <STRING>Reformace</STRING>
-      <STRING>Teokracie</STRING>
-      <STRING>Teokracie</STRING>
-      <STRING>Teokracie</STRING>
+      <STRING>Religion Náboženství</STRING>
+      <STRING>Religion Náboženství</STRING>
+      <STRING>Religion Náboženství</STRING>
+      <STRING>Religion Reformace</STRING>
+      <STRING>Religion Reformace</STRING>
+      <STRING>Religion Teokracie</STRING>
+      <STRING>Religion Teokracie</STRING>
+      <STRING>Religion Teokracie</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Monotheism">
-      <STRING>Svaté písmo</STRING>
-      <STRING>Svaté písmo</STRING>
-      <STRING>Monoteismus</STRING>
-      <STRING>Monoteismus</STRING>
-      <STRING>Misionáři</STRING>
-      <STRING>Misionáři</STRING>
-      <STRING>Sekularismus</STRING>
-      <STRING>Sekularismus</STRING>
+      <STRING>Monotheism Svaté písmo</STRING>
+      <STRING>Monotheism Svaté písmo</STRING>
+      <STRING>Monotheism Monoteismus</STRING>
+      <STRING>Monotheism Monoteismus</STRING>
+      <STRING>Monotheism Misionáři</STRING>
+      <STRING>Monotheism Misionáři</STRING>
+      <STRING>Monotheism Sekularismus</STRING>
+      <STRING>Monotheism Sekularismus</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Existentialism">
-      <STRING>Duchovno</STRING>
-      <STRING>Duchovno</STRING>
-      <STRING>Náboženské sekty</STRING>
-      <STRING>Náboženské sekty</STRING>
-      <STRING>Existencialismus</STRING>
-      <STRING>Existencialismus</STRING>
-      <STRING>Existencialismus</STRING>
-      <STRING>Existencialismus</STRING>
+      <STRING>Existentialism Duchovno</STRING>
+      <STRING>Existentialism Duchovno</STRING>
+      <STRING>Existentialism Náboženské sekty</STRING>
+      <STRING>Existentialism Náboženské sekty</STRING>
+      <STRING>Existentialism Existencialismus</STRING>
+      <STRING>Existentialism Existencialismus</STRING>
+      <STRING>Existentialism Existencialismus</STRING>
+      <STRING>Existentialism Existencialismus</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Taxation">
       <STRING>Daně</STRING>
@@ -369,14 +369,14 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <STRING>Daně</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Vassalage">
-      <STRING>Vazalství</STRING>
-      <STRING>Vazalství</STRING>
-      <STRING>Vazalství</STRING>
-      <STRING>Vazalství</STRING>
-      <STRING>Úplatky</STRING>
-      <STRING>Úplatky</STRING>
-      <STRING>Úplatky</STRING>
-      <STRING>Úplatky</STRING>
+      <STRING>Vassalage Vazalství</STRING>
+      <STRING>Vassalage Vazalství</STRING>
+      <STRING>Vassalage Vazalství</STRING>
+      <STRING>Vassalage Vazalství</STRING>
+      <STRING>Vassalage Úplatky</STRING>
+      <STRING>Vassalage Úplatky</STRING>
+      <STRING>Vassalage Úplatky</STRING>
+      <STRING>Vassalage Úplatky</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Social Contract">
       <STRING>Společenská smlouva</STRING>
@@ -389,14 +389,14 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <STRING>Společenská smlouva</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Income Tax">
-      <STRING>Svrchovanost</STRING>
-      <STRING>Svrchovanost</STRING>
-      <STRING>Svrchovanost</STRING>
-      <STRING>Výběr daní</STRING>
-      <STRING>Výběr daní</STRING>
-      <STRING>Výběr daní</STRING>
-      <STRING>Výběr daní</STRING>
-      <STRING>Výběr daní</STRING>
+      <STRING>Income Tax Svrchovanost</STRING>
+      <STRING>Income Tax Svrchovanost</STRING>
+      <STRING>Income Tax Svrchovanost</STRING>
+      <STRING>Income Tax Výběr daní</STRING>
+      <STRING>Income Tax Výběr daní</STRING>
+      <STRING>Income Tax Výběr daní</STRING>
+      <STRING>Income Tax Výběr daní</STRING>
+      <STRING>Income Tax Výběr daní</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Fortification">
       <STRING>Opevnění</STRING>
@@ -419,14 +419,14 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <STRING>Bombardování</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Strategic Reserves">
-      <STRING>Vojenské inženýrství</STRING>
-      <STRING>Vojenské inženýrství</STRING>
-      <STRING>Vojenské inženýrství</STRING>
-      <STRING>Vojenské inženýrství</STRING>
-      <STRING>Strategické rezervy</STRING>
-      <STRING>Strategické rezervy</STRING>
-      <STRING>Strategické rezervy</STRING>
-      <STRING>Strategické rezervy</STRING>
+      <STRING>Strategic Reserves Vojenské inženýrství</STRING>
+      <STRING>Strategic Reserves Vojenské inženýrství</STRING>
+      <STRING>Strategic Reserves Vojenské inženýrství</STRING>
+      <STRING>Strategic Reserves Vojenské inženýrství</STRING>
+      <STRING>Strategic Reserves Strategické rezervy</STRING>
+      <STRING>Strategic Reserves Strategické rezervy</STRING>
+      <STRING>Strategic Reserves Strategické rezervy</STRING>
+      <STRING>Strategic Reserves Strategické rezervy</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Allegiance">
       <STRING>Loajálnost</STRING>
@@ -439,14 +439,14 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <STRING>Loajálnost</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Oath of Fealty">
-      <STRING>Přísaha věrnosti</STRING>
-      <STRING>Přísaha věrnosti</STRING>
-      <STRING>Přísaha věrnosti</STRING>
-      <STRING>Přísaha věrnosti</STRING>
-      <STRING>Státní občanství</STRING>
-      <STRING>Státní občanství</STRING>
-      <STRING>Státní občanství</STRING>
-      <STRING>Státní občanství</STRING>
+      <STRING>Oath of Fealty Přísaha věrnosti</STRING>
+      <STRING>Oath of Fealty Přísaha věrnosti</STRING>
+      <STRING>Oath of Fealty Přísaha věrnosti</STRING>
+      <STRING>Oath of Fealty Přísaha věrnosti</STRING>
+      <STRING>Oath of Fealty Státní občanství</STRING>
+      <STRING>Oath of Fealty Státní občanství</STRING>
+      <STRING>Oath of Fealty Státní občanství</STRING>
+      <STRING>Oath of Fealty Státní občanství</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Patriotism">
       <STRING>Vlastenectví</STRING>
@@ -459,14 +459,14 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <STRING>Vlastenectví</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Nationalism">
-      <STRING>Národnost</STRING>
-      <STRING>Národnost</STRING>
-      <STRING>Národnost</STRING>
-      <STRING>Národnost</STRING>
-      <STRING>Nacionalismus</STRING>
-      <STRING>Nacionalismus</STRING>
-      <STRING>Nacionalismus</STRING>
-      <STRING>Nacionalismus</STRING>
+      <STRING>Nationalism Národnost</STRING>
+      <STRING>Nationalism Národnost</STRING>
+      <STRING>Nationalism Národnost</STRING>
+      <STRING>Nationalism Národnost</STRING>
+      <STRING>Nationalism Nacionalismus</STRING>
+      <STRING>Nationalism Nacionalismus</STRING>
+      <STRING>Nationalism Nacionalismus</STRING>
+      <STRING>Nationalism Nacionalismus</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Construction">
       <STRING>Konstrukce</STRING>
@@ -499,34 +499,34 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <STRING>Inženýrství</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Herbal Lore">
-      <STRING>Přírodní léčení</STRING>
-      <STRING>Přírodní léčení</STRING>
-      <STRING>Přírodní léčení</STRING>
-      <STRING>Přírodní léčení</STRING>
-      <STRING>Homeopatie</STRING>
-      <STRING>Homeopatie</STRING>
-      <STRING>Homeopatie</STRING>
-      <STRING>Homeopatie</STRING>
+      <STRING>Herbal Lore Přírodní léčení</STRING>
+      <STRING>Herbal Lore Přírodní léčení</STRING>
+      <STRING>Herbal Lore Přírodní léčení</STRING>
+      <STRING>Herbal Lore Přírodní léčení</STRING>
+      <STRING>Herbal Lore Homeopatie</STRING>
+      <STRING>Herbal Lore Homeopatie</STRING>
+      <STRING>Herbal Lore Homeopatie</STRING>
+      <STRING>Herbal Lore Homeopatie</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Medicine">
-      <STRING>Medicína</STRING>
-      <STRING>Medicína</STRING>
-      <STRING>Medicína</STRING>
-      <STRING>Medicína</STRING>
-      <STRING>Medicína</STRING>
-      <STRING>Preventivní léčba</STRING>
-      <STRING>Preventivní léčba</STRING>
-      <STRING>Preventivní léčba</STRING>
+      <STRING>Medicine Medicína</STRING>
+      <STRING>Medicine Medicína</STRING>
+      <STRING>Medicine Medicína</STRING>
+      <STRING>Medicine Medicína</STRING>
+      <STRING>Medicine Medicína</STRING>
+      <STRING>Medicine Preventivní léčba</STRING>
+      <STRING>Medicine Preventivní léčba</STRING>
+      <STRING>Medicine Preventivní léčba</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Pharmaceuticals">
-      <STRING>Lékárnictví</STRING>
-      <STRING>Lékárnictví</STRING>
-      <STRING>Lékárnictví</STRING>
-      <STRING>Léčiva</STRING>
-      <STRING>Léčiva</STRING>
-      <STRING>Léčiva</STRING>
-      <STRING>Léčiva</STRING>
-      <STRING>Léčiva</STRING>
+      <STRING>Pharmaceuticals Lékárnictví</STRING>
+      <STRING>Pharmaceuticals Lékárnictví</STRING>
+      <STRING>Pharmaceuticals Lékárnictví</STRING>
+      <STRING>Pharmaceuticals Léčiva</STRING>
+      <STRING>Pharmaceuticals Léčiva</STRING>
+      <STRING>Pharmaceuticals Léčiva</STRING>
+      <STRING>Pharmaceuticals Léčiva</STRING>
+      <STRING>Pharmaceuticals Léčiva</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Forage">
       <STRING>Pícniny</STRING>
@@ -569,54 +569,54 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <STRING>Lesnictví</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Logging Industry">
-      <STRING>Pokročilé tesařství</STRING>
-      <STRING>Pokročilé tesařství</STRING>
-      <STRING>Soustružnictví</STRING>
-      <STRING>Těžba dřeva</STRING>
-      <STRING>Těžba dřeva</STRING>
-      <STRING>Těžba dřeva</STRING>
-      <STRING>Těžba dřeva</STRING>
-      <STRING>Zalesňování</STRING>
+      <STRING>Logging Industry Pokročilé tesařství</STRING>
+      <STRING>Logging Industry Pokročilé tesařství</STRING>
+      <STRING>Logging Industry Soustružnictví</STRING>
+      <STRING>Logging Industry Těžba dřeva</STRING>
+      <STRING>Logging Industry Těžba dřeva</STRING>
+      <STRING>Logging Industry Těžba dřeva</STRING>
+      <STRING>Logging Industry Těžba dřeva</STRING>
+      <STRING>Logging Industry Zalesňování</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Papermill">
-      <STRING>Papírnictví</STRING>
-      <STRING>Papírnictví</STRING>
-      <STRING>Papírnictví</STRING>
-      <STRING>Papírnictví</STRING>
-      <STRING>Papírnictví</STRING>
-      <STRING>Papírenský průmysl</STRING>
-      <STRING>Papírenský průmysl</STRING>
-      <STRING>Papírenský průmysl</STRING>
+      <STRING>Papermill Papírnictví</STRING>
+      <STRING>Papermill Papírnictví</STRING>
+      <STRING>Papermill Papírnictví</STRING>
+      <STRING>Papermill Papírnictví</STRING>
+      <STRING>Papermill Papírnictví</STRING>
+      <STRING>Papermill Papírenský průmysl</STRING>
+      <STRING>Papermill Papírenský průmysl</STRING>
+      <STRING>Papermill Papírenský průmysl</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Agriculture">
-      <STRING>Zemědělství</STRING>
-      <STRING>Zemědělství</STRING>
-      <STRING>Zemědělství</STRING>
-      <STRING>Zemědělství</STRING>
-      <STRING>Zemědělství</STRING>
-      <STRING>Agronomie</STRING>
-      <STRING>Agronomie</STRING>
-      <STRING>Agronomie</STRING>
+      <STRING>Agriculture Zemědělství</STRING>
+      <STRING>Agriculture Zemědělství</STRING>
+      <STRING>Agriculture Zemědělství</STRING>
+      <STRING>Agriculture Zemědělství</STRING>
+      <STRING>Agriculture Zemědělství</STRING>
+      <STRING>Agriculture Agronomie</STRING>
+      <STRING>Agriculture Agronomie</STRING>
+      <STRING>Agriculture Agronomie</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Crop Rotation">
-      <STRING>Orání</STRING>
-      <STRING>Orání</STRING>
-      <STRING>Orání</STRING>
-      <STRING>Střídání plodin</STRING>
-      <STRING>Střídání plodin</STRING>
-      <STRING>Ochrana půdy</STRING>
-      <STRING>Ochrana půdy</STRING>
-      <STRING>Ochrana půdy</STRING>
+      <STRING>Crop Rotation Orání</STRING>
+      <STRING>Crop Rotation Orání</STRING>
+      <STRING>Crop Rotation Orání</STRING>
+      <STRING>Crop Rotation Střídání plodin</STRING>
+      <STRING>Crop Rotation Střídání plodin</STRING>
+      <STRING>Crop Rotation Ochrana půdy</STRING>
+      <STRING>Crop Rotation Ochrana půdy</STRING>
+      <STRING>Crop Rotation Ochrana půdy</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Food Industry">
-      <STRING>Konzervování</STRING>
-      <STRING>Konzervování</STRING>
-      <STRING>Konzervování</STRING>
-      <STRING>Potravinářský průmysl</STRING>
-      <STRING>Potravinářský průmysl</STRING>
-      <STRING>Potravinářský průmysl</STRING>
-      <STRING>Zmrazování</STRING>
-      <STRING>Zmrazování</STRING>
+      <STRING>Food Industry Konzervování</STRING>
+      <STRING>Food Industry Konzervování</STRING>
+      <STRING>Food Industry Konzervování</STRING>
+      <STRING>Food Industry Potravinářský průmysl</STRING>
+      <STRING>Food Industry Potravinářský průmysl</STRING>
+      <STRING>Food Industry Potravinářský průmysl</STRING>
+      <STRING>Food Industry Zmrazování</STRING>
+      <STRING>Food Industry Zmrazování</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Literacy">
       <STRING>Gramotnost</STRING>
@@ -629,74 +629,74 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <STRING>Gramotnost</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Printing Press">
-      <STRING>Písaři</STRING>
-      <STRING>Písaři</STRING>
-      <STRING>Tiskařství</STRING>
-      <STRING>Tiskařství</STRING>
-      <STRING>Encyklopedie</STRING>
-      <STRING>Encyklopedie</STRING>
-      <STRING>Encyklopedie</STRING>
-      <STRING>Encyklopedie</STRING>
+      <STRING>Printing Press Písaři</STRING>
+      <STRING>Printing Press Písaři</STRING>
+      <STRING>Printing Press Tiskařství</STRING>
+      <STRING>Printing Press Tiskařství</STRING>
+      <STRING>Printing Press Encyklopedie</STRING>
+      <STRING>Printing Press Encyklopedie</STRING>
+      <STRING>Printing Press Encyklopedie</STRING>
+      <STRING>Printing Press Encyklopedie</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Scientific Method">
-      <STRING>Sokratova metoda</STRING>
-      <STRING>Sokratova metoda</STRING>
-      <STRING>Sokratova metoda</STRING>
-      <STRING>Vědecké metody</STRING>
-      <STRING>Vědecké metody</STRING>
-      <STRING>Vědecké metody</STRING>
-      <STRING>Vědecké metody</STRING>
-      <STRING>Vědecké metody</STRING>
+      <STRING>Scientific Method Sokratova metoda</STRING>
+      <STRING>Scientific Method Sokratova metoda</STRING>
+      <STRING>Scientific Method Sokratova metoda</STRING>
+      <STRING>Scientific Method Vědecké metody</STRING>
+      <STRING>Scientific Method Vědecké metody</STRING>
+      <STRING>Scientific Method Vědecké metody</STRING>
+      <STRING>Scientific Method Vědecké metody</STRING>
+      <STRING>Scientific Method Vědecké metody</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Institutional Research">
-      <STRING>Stipendium</STRING>
-      <STRING>Stipendium</STRING>
-      <STRING>Stipendium</STRING>
-      <STRING>Stipendium</STRING>
-      <STRING>Stipendium</STRING>
-      <STRING>Stipendium</STRING>
-      <STRING>Institucionální výzkum</STRING>
-      <STRING>Institucionální výzkum</STRING>
+      <STRING>Institutional Research Stipendium</STRING>
+      <STRING>Institutional Research Stipendium</STRING>
+      <STRING>Institutional Research Stipendium</STRING>
+      <STRING>Institutional Research Stipendium</STRING>
+      <STRING>Institutional Research Stipendium</STRING>
+      <STRING>Institutional Research Stipendium</STRING>
+      <STRING>Institutional Research Institucionální výzkum</STRING>
+      <STRING>Institutional Research Institucionální výzkum</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Supercomputers">
-      <STRING>Akademické vzdělání</STRING>
-      <STRING>Akademické vzdělání</STRING>
-      <STRING>Akademické vzdělání</STRING>
-      <STRING>Akademické vzdělání</STRING>
-      <STRING>Akademické vzdělání</STRING>
-      <STRING>Akademické vzdělání</STRING>
-      <STRING>Superpočítače</STRING>
-      <STRING>Superpočítače</STRING>
+      <STRING>Supercomputers Akademické vzdělání</STRING>
+      <STRING>Supercomputers Akademické vzdělání</STRING>
+      <STRING>Supercomputers Akademické vzdělání</STRING>
+      <STRING>Supercomputers Akademické vzdělání</STRING>
+      <STRING>Supercomputers Akademické vzdělání</STRING>
+      <STRING>Supercomputers Akademické vzdělání</STRING>
+      <STRING>Supercomputers Superpočítače</STRING>
+      <STRING>Supercomputers Superpočítače</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Metal Alloys">
-      <STRING>Slévání kovu</STRING>
-      <STRING>Slévání kovu</STRING>
-      <STRING>Slévání kovu</STRING>
-      <STRING>Metalurgie</STRING>
-      <STRING>Metalurgie</STRING>
-      <STRING>Metalurgie</STRING>
-      <STRING>Metalurgie</STRING>
-      <STRING>Metalurgie</STRING>
+      <STRING>Metal Alloys Slévání kovu</STRING>
+      <STRING>Metal Alloys Slévání kovu</STRING>
+      <STRING>Metal Alloys Slévání kovu</STRING>
+      <STRING>Metal Alloys Metalurgie</STRING>
+      <STRING>Metal Alloys Metalurgie</STRING>
+      <STRING>Metal Alloys Metalurgie</STRING>
+      <STRING>Metal Alloys Metalurgie</STRING>
+      <STRING>Metal Alloys Metalurgie</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Cold Casting">
-      <STRING>Pece</STRING>
-      <STRING>Pece</STRING>
-      <STRING>Studené odlévání</STRING>
-      <STRING>Studené odlévání</STRING>
-      <STRING>Vysoké pece</STRING>
-      <STRING>Vysoké pece</STRING>
-      <STRING>Svařování</STRING>
-      <STRING>Svařování</STRING>
+      <STRING>Cold Casting Pece</STRING>
+      <STRING>Cold Casting Pece</STRING>
+      <STRING>Cold Casting Studené odlévání</STRING>
+      <STRING>Cold Casting Studené odlévání</STRING>
+      <STRING>Cold Casting Vysoké pece</STRING>
+      <STRING>Cold Casting Vysoké pece</STRING>
+      <STRING>Cold Casting Svařování</STRING>
+      <STRING>Cold Casting Svařování</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Steel">
-      <STRING>Těžba rudy</STRING>
-      <STRING>Těžba rudy</STRING>
-      <STRING>Mosaz</STRING>
-      <STRING>Mosaz</STRING>
-      <STRING>Ocelářství</STRING>
-      <STRING>Ocelářství</STRING>
-      <STRING>Ocelářství</STRING>
-      <STRING>Ocelářství</STRING>
+      <STRING>Steel Těžba rudy</STRING>
+      <STRING>Steel Těžba rudy</STRING>
+      <STRING>Steel Mosaz</STRING>
+      <STRING>Steel Mosaz</STRING>
+      <STRING>Steel Ocelářství</STRING>
+      <STRING>Steel Ocelářství</STRING>
+      <STRING>Steel Ocelářství</STRING>
+      <STRING>Steel Ocelářství</STRING>
     </EPOCHTYPE>
   </ALTERNATENAMES2>
 </ROOT>
