@@ -86,7 +86,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
 		<STRING hash="8707027" hash_i="8692889" needed="1">Doba osvícení</STRING>
 		<STRING hash="5641758" hash_i="5624780" needed="1">Doba industrializace</STRING>
 		<STRING hash="1495270" hash_i="1478064" needed="1">Doba moderní</STRING>
-		<STRING hash="6746924" hash_i="6729946" needed="1">Doba informační</STRING>
+		<STRING hash="6746924" hash_i="6729946" needed="1">Doba budoucí</STRING>
 		<STRING hash="617427" hash_i="720895" needed="1">WAR!</STRING>
 		<STRING hash="1366925" hash_i="1346081" needed="1">Peace</STRING>
 		<STRING hash="669166" hash_i="736872" needed="1">Ally</STRING>
@@ -485,7 +485,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
 		<STRING hash="40916958" hash_i="42205542" needed="1">#ICON104Atlantic Sea Power</STRING>
 		<STRING hash="17363127" hash_i="17754547" needed="1">#ICON105Nile Delta</STRING>
 		<STRING hash="23444847" hash_i="24657945" needed="1">#ICON106British Isles</STRING>
-		<STRING hash="8958687" hash_i="10081919" needed="1">Doba před-informační</STRING>
+		<STRING hash="8958687" hash_i="10081919" needed="1">Doba informační</STRING>
 		<STRING hash="2037111" hash_i="2014753" needed="1">Vassal</STRING>
 		<STRING hash="23382128" hash_i="23482776" needed="1">Commandeer Transport</STRING>
 		<STRING hash="3145528" hash_i="3218402" needed="1">Brigands</STRING>
