@@ -19,13 +19,13 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
 <!--LOCALIZATION: All STRING elements.-->
 <ROOT>
   <AGES>
-    <STRING hash="8843171" needed="1">Primitivní věk</STRING>
-    <STRING hash="6818848" needed="1">Středověk</STRING>
+    <STRING hash="8843171" needed="1">Doba železná</STRING>
+    <STRING hash="6818848" needed="1">Doba temna</STRING>
     <STRING hash="7683271" needed="1">Doba střelného prachu</STRING>
-    <STRING hash="13782908" needed="1">Věk osvícení</STRING>
-    <STRING hash="9696711" needed="1">Industriální doba</STRING>
-    <STRING hash="4270575" needed="1">Moderní věk</STRING>
-    <STRING hash="11109641" needed="1">Informační věk</STRING>
+    <STRING hash="13782908" needed="1">Doba osvícení</STRING>
+    <STRING hash="9696711" needed="1">Doba industrializace</STRING>
+    <STRING hash="4270575" needed="1">Doba moderní</STRING>
+    <STRING hash="11109641" needed="1">Doba informační</STRING>
   </AGES>
   <TECHS>
     <STRING hash="7422563" needed="1">Psané slovo</STRING>

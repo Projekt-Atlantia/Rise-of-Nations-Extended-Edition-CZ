@@ -1,13 +1,22 @@
 <?xml version="1.0"?>
 <!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by Scott Lewis (Big Huge Games) -->
 <!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by XMLSPY 5 Professional Ed. Release 2 (Big Huge Games) -->
-<!-- LOCALIZATION-->
-<!-- LOCALIZATION-->
-<!-- LOCALIZATION-->
+<!--
+
+Český překlad vytvořen pod záštitou Projektu Atlantia
+
+Chráněno licencí Creative Commons BY-NC-ND 4.0
+
+Lze jej tedy bezplatně šířit dále i jej upravovat se zachováním
+a uvedením originálního autora jímž je Projekt Atlantia.
+
+Stránka překladu:
+Hlášení chyb:
+GitHub repozitář: https://github.com/Projekt-Atlantia/Rise-of-Nations-Extended-Edition-CZ
+Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2705269592
+
+-->
 <!-- LOCALIZATION: All text within STRING elements-->
-<!-- LOCALIZATION-->
-<!-- LOCALIZATION-->
-<!-- LOCALIZATION-->
 <ROOT>
 	<CAT hash="3920216">
 		<STRING hash="10416096" hash_i="11226112" needed="1">Teams &amp; Allies:</STRING>
@@ -172,16 +181,16 @@
 		<STRING hash="17484138" hash_i="17504654" needed="1">Expensive and Slow</STRING>
 		<STRING hash="10314296" hash_i="10335014" needed="1">Very Expensive</STRING>
 		<STRING hash="29852837" hash_i="29964251" needed="1">Very Expensive and Slow</STRING>
-		<STRING hash="5622063" hash_i="6522291" needed="1">Ancient Age</STRING>
-		<STRING hash="8843171" hash_i="9947361" needed="1">Classical Age</STRING>
-		<STRING hash="6818848" hash_i="7743310" needed="1">Medieval Age</STRING>
-		<STRING hash="7683271" hash_i="8696213" needed="1">Gunpowder Age</STRING>
-		<STRING hash="13782908" hash_i="15146344" needed="1">Enlightenment Age</STRING>
-		<STRING hash="9696711" hash_i="10787533" needed="1">Industrial Age</STRING>
-		<STRING hash="4270575" hash_i="4953001" needed="1">Modern Age</STRING>
-		<STRING hash="11109641" hash_i="12277097" needed="1">Information Age</STRING>
-		<STRING hash="13700477" hash_i="13723301" needed="1">All Technologies</STRING>
-		<STRING hash="5193805" hash_i="5871995" needed="1">Random Age!</STRING>
+		<STRING hash="5622063" hash_i="6522291" needed="1">Doba bronzová</STRING>
+		<STRING hash="8843171" hash_i="9947361" needed="1">Doba železná</STRING>
+		<STRING hash="6818848" hash_i="7743310" needed="1">Doba temna</STRING>
+		<STRING hash="7683271" hash_i="8696213" needed="1">Doba střelného prachu</STRING>
+		<STRING hash="13782908" hash_i="15146344" needed="1">Doba osvícení</STRING>
+		<STRING hash="9696711" hash_i="10787533" needed="1">Doba industrializace</STRING>
+		<STRING hash="4270575" hash_i="4953001" needed="1">Doba moderní</STRING>
+		<STRING hash="11109641" hash_i="12277097" needed="1">Doba informační</STRING>
+		<STRING hash="13700477" hash_i="13723301" needed="1">Všechny technologie</STRING>
+		<STRING hash="5193805" hash_i="5871995" needed="1">Náhodná doba</STRING>
 		<STRING hash="2574263" hash_i="3086581" needed="1">Same Age</STRING>
 		<STRING hash="1424530" hash_i="1747290" needed="1">+1 Age</STRING>
 		<STRING hash="1247577" hash_i="1570337" needed="1">+2 Age</STRING>
