@@ -11,7 +11,7 @@ Lze jej tedy bezplatně šířit dále i jej upravovat se zachováním
 a uvedením originálního autora jímž je Projekt Atlantia.
 
 Stránka překladu:
-Hlášení chyb:
+Hlášení chyb: https://github.com/Projekt-Atlantia/Rise-of-Nations-Extended-Edition-CZ/issues
 GitHub repozitář: https://github.com/Projekt-Atlantia/Rise-of-Nations-Extended-Edition-CZ
 Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2705269592
 
@@ -79,14 +79,14 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
 		<STRING hash="8254070" hash_i="8997984" needed="1">Manual Craft</STRING>
 		<STRING hash="6302470" hash_i="6411260" needed="1">Auto Deploy</STRING>
 		<STRING hash="9187448" hash_i="9212466" needed="1">Manual Deploy</STRING>
-		<STRING hash="2415994" hash_i="2483700" needed="1">Ancient</STRING>
-		<STRING hash="5055938" hash_i="5131330" needed="1">Classical</STRING>
-		<STRING hash="3271147" hash_i="3253941" needed="1">Medieval</STRING>
-		<STRING hash="3896038" hash_i="3880182" needed="1">Gunpowder</STRING>
-		<STRING hash="8707027" hash_i="8692889" needed="1">Enlightenment</STRING>
-		<STRING hash="5641758" hash_i="5624780" needed="1">Industrial</STRING>
-		<STRING hash="1495270" hash_i="1478064" needed="1">Modern</STRING>
-		<STRING hash="6746924" hash_i="6729946" needed="1">Information</STRING>
+		<STRING hash="2415994" hash_i="2483700" needed="1">Doba bronzová</STRING>
+		<STRING hash="5055938" hash_i="5131330" needed="1">Doba železná</STRING>
+		<STRING hash="3271147" hash_i="3253941" needed="1">Doba temna</STRING>
+		<STRING hash="3896038" hash_i="3880182" needed="1">Doba střelného prachu</STRING>
+		<STRING hash="8707027" hash_i="8692889" needed="1">Doba osvícení</STRING>
+		<STRING hash="5641758" hash_i="5624780" needed="1">Doba industrializace</STRING>
+		<STRING hash="1495270" hash_i="1478064" needed="1">Doba moderní</STRING>
+		<STRING hash="6746924" hash_i="6729946" needed="1">Doba informační</STRING>
 		<STRING hash="617427" hash_i="720895" needed="1">WAR!</STRING>
 		<STRING hash="1366925" hash_i="1346081" needed="1">Peace</STRING>
 		<STRING hash="669166" hash_i="736872" needed="1">Ally</STRING>
@@ -207,13 +207,13 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
 		<STRING hash="543176" hash_i="543176" needed="1">200</STRING>
 		<STRING hash="383047" hash_i="383047" needed="1">250</STRING>
 		<STRING hash="543987" hash_i="543987" needed="1">300</STRING>
-		<STRING hash="36489255" hash_i="40020081" needed="1">Peace until Classical Age</STRING>
-		<STRING hash="30793466" hash_i="32958956" needed="1">Peace until Medieval Age</STRING>
-		<STRING hash="33384663" hash_i="35729265" needed="1">Peace until Gunpowder Age</STRING>
-		<STRING hash="46053282" hash_i="48817826" needed="1">Peace until Enlightenment Age</STRING>
-		<STRING hash="37813093" hash_i="40228831" needed="1">Peace until Industrial Age</STRING>
-		<STRING hash="24369589" hash_i="26310579" needed="1">Peace until Modern Age</STRING>
-		<STRING hash="40894511" hash_i="43426883" needed="1">Peace until Information Age</STRING>
+		<STRING hash="36489255" hash_i="40020081" needed="1">Mír do doby železné</STRING>
+		<STRING hash="30793466" hash_i="32958956" needed="1">Mír do doby temna</STRING>
+		<STRING hash="33384663" hash_i="35729265" needed="1">Mír do doby střelného prachu</STRING>
+		<STRING hash="46053282" hash_i="48817826" needed="1">Mír do doby osvícení</STRING>
+		<STRING hash="37813093" hash_i="40228831" needed="1">Mír do doby industriální</STRING>
+		<STRING hash="24369589" hash_i="26310579" needed="1">Mír do doby moderní</STRING>
+		<STRING hash="40894511" hash_i="43426883" needed="1">Mír do doby informační</STRING>
 		<STRING hash="6310670" hash_i="6248254" needed="1">Non Violent</STRING>
 		<STRING hash="34210057" hash_i="34189213" needed="1">Peace for first 2 minutes</STRING>
 		<STRING hash="34290364" hash_i="34269520" needed="1">Peace for first 5 minutes</STRING>
@@ -485,7 +485,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
 		<STRING hash="40916958" hash_i="42205542" needed="1">#ICON104Atlantic Sea Power</STRING>
 		<STRING hash="17363127" hash_i="17754547" needed="1">#ICON105Nile Delta</STRING>
 		<STRING hash="23444847" hash_i="24657945" needed="1">#ICON106British Isles</STRING>
-		<STRING hash="8958687" hash_i="10081919" needed="1">Early Info Age</STRING>
+		<STRING hash="8958687" hash_i="10081919" needed="1">Doba před-informační</STRING>
 		<STRING hash="2037111" hash_i="2014753" needed="1">Vassal</STRING>
 		<STRING hash="23382128" hash_i="23482776" needed="1">Commandeer Transport</STRING>
 		<STRING hash="3145528" hash_i="3218402" needed="1">Brigands</STRING>
