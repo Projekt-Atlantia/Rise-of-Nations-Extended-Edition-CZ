@@ -50,6 +50,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Vědecký (1) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Vědecký (1) (Doby: Osvícení - Informační) -->
       <STRING>Written Word Anatomie</STRING>
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Industriální - Industriální) -->
       <STRING>Written Word Termodynamika</STRING>
       <STRING>Written Word Statistika</STRING>
       <STRING>Written Word Nukleární fyzika</STRING>
@@ -88,6 +89,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Vědecký (2) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Vědecký (2) (Doby: Osvícení - Informační) -->
       <STRING>Mathematics Mechanická energie</STRING>
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Industriální - Industriální) -->
       <STRING>Mathematics Elektromagnetismus </STRING>
       <STRING>Mathematics Akustika</STRING>
       <STRING>Mathematics Genetika</STRING>
@@ -126,6 +128,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Vědecký (3) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Vědecký (3) (Doby: Osvícení - Informační) -->
       <STRING>Chemistry Výpočty</STRING>
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Industriální - Industriální) -->
       <STRING>Chemistry Farmakologie</STRING>
       <STRING>Chemistry Relativita</STRING>
       <STRING>Chemistry Kvantová mechanika</STRING>
@@ -164,6 +167,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Vědecký (4) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Vědecký (4) (Doby: Osvícení - Informační) -->
       <STRING>Laws of Nature Geologie</STRING>
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Industriální - Industriální) -->
       <STRING>Laws of Nature Imunizace</STRING>
       <STRING>Laws of Nature Mikrobiologie</STRING>
       <STRING>Laws of Nature Mikročipy</STRING>
@@ -202,6 +206,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Vědecký (5) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Vědecký (5) (Doby: Osvícení - Informační) -->
       <STRING>Electricity Elektrifikace</STRING>
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Industriální - Industriální) -->
       <STRING>Electricity Aerodynamika</STRING>
       <STRING>Electricity Antibiotika</STRING>
       <STRING>Electricity Astrofyzika</STRING>
@@ -240,6 +245,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Vědecký (6) (Doby: Osvícení - Industriální) -->
       <!-- Hlavní výzkum - Vědecký (6) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Vědecký (6) (Doby: Osvícení - Informační) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Industriální - Industriální) -->
       <STRING>Electronics Elektronika</STRING>
       <STRING>Electronics Meteorologie</STRING>
       <STRING>Electronics Laserová technologie</STRING>
@@ -269,6 +275,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Vědecký (7) (Doby: Středověk - Industriální) -->
       <!-- Hlavní výzkum - Vědecký (7) (Doby: Střelný prach - Industriální) -->
       <!-- Hlavní výzkum - Vědecký (7) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Industriální - Industriální) -->
       <STRING>Computerization Vodní elektřina</STRING>
       <!-- Hlavní výzkum - Vědecký (7) (Doby: Ancient - Moderní) -->
       <!-- Hlavní výzkum - Vědecký (7) (Doby: Primitivní - Moderní) -->
@@ -316,6 +323,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Obchodní (1) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Obchodní (1) (Doby: Osvícení - Informační) -->
       <STRING>Barter Zeměpisné souřadnice</STRING>
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Industriální - Industriální) -->
       <STRING>Barter Měna</STRING>
       <STRING>Barter Manufaktura</STRING>
       <STRING>Barter Super dálnice</STRING>
@@ -354,6 +362,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Obchodní (2) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Obchodní (2) (Doby: Osvícení - Informační) -->
       <STRING>Coinage Bankovnictví</STRING>
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Industriální - Industriální) -->
       <STRING>Coinage Telefony</STRING>
       <STRING>Coinage Masová média</STRING>
       <STRING>Coinage Fiskální nařízení</STRING>
@@ -392,6 +401,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Obchodní (3) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Obchodní (3) (Doby: Osvícení - Informační) -->
       <STRING>Trade Železnice</STRING>
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Industriální - Industriální) -->
       <STRING>Trade Burza</STRING>
       <STRING>Trade Peněžní rezervy</STRING>
       <STRING>Trade Satelitní komunikace</STRING>
@@ -430,6 +440,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Obchodní (4) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Obchodní (4) (Doby: Osvícení - Informační) -->
       <STRING>Mercantilism Poštovní služby</STRING>
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Industriální - Industriální) -->
       <STRING>Mercantilism Antimonopolní legislativa</STRING>
       <STRING>Mercantilism Reklama</STRING>
       <STRING>Mercantilism Recyklace</STRING>
@@ -468,6 +479,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Obchodní (5) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Obchodní (5) (Doby: Osvícení - Informační) -->
       <STRING>Finance Finance</STRING>
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Industriální - Industriální) -->
       <STRING>Finance Rádio</STRING>
       <STRING>Finance Precizní řemeslnictví</STRING>
       <STRING>Finance Volný obchod</STRING>
@@ -506,6 +518,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Obchodní (6) (Doby: Osvícení - Industriální) -->
       <!-- Hlavní výzkum - Obchodní (6) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Obchodní (6) (Doby: Osvícení - Informační) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Industriální - Industriální) -->
       <STRING>Assembly Line Montážní linky</STRING>
       <STRING>Assembly Line Televize</STRING>
       <STRING>Assembly Line Internet</STRING>
@@ -535,6 +548,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Obchodní (7) (Doby: Středověk - Industriální) -->
       <!-- Hlavní výzkum - Obchodní (7) (Doby: Střelný prach - Industriální) -->
       <!-- Hlavní výzkum - Obchodní (7) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Industriální - Industriální) -->
       <STRING>Globalization Fotografie a filmy</STRING>
       <!-- Hlavní výzkum - Obchodní (7) (Doby: Ancient - Moderní) -->
       <!-- Hlavní výzkum - Obchodní (7) (Doby: Primitivní - Moderní) -->
@@ -582,6 +596,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Vládní (1) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Vládní (1) (Doby: Osvícení - Informační) -->
       <STRING>City State Lidská práva</STRING>
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Industriální - Industriální) -->
       <STRING>City State Konstituční monarchie</STRING>
       <STRING>City State Populismus</STRING>
       <STRING>City State Občanská práva</STRING>
@@ -620,6 +635,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Vládní (2) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Vládní (2) (Doby: Osvícení - Informační) -->
       <STRING>Empire Federalismus</STRING>
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Industriální - Industriální) -->
       <STRING>Empire Pakty a aliance</STRING>
       <STRING>Empire Interní příjmy</STRING>
       <STRING>Empire Obnova měst</STRING>
@@ -658,6 +674,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Vládní (3) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Vládní (3) (Doby: Osvícení - Informační) -->
       <STRING>Feudalism Rovnováha sil</STRING>
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Industriální - Industriální) -->
       <STRING>Feudalism Právní stát</STRING>
       <STRING>Feudalism Správa rozpočtu</STRING>
       <STRING>Feudalism Vládní etika</STRING>
@@ -696,6 +713,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Vládní (4) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Vládní (4) (Doby: Osvícení - Informační) -->
       <STRING>Divine Right Listina práv a svobod</STRING>
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Industriální - Industriální) -->
       <STRING>Divine Right Reálpolitika</STRING>
       <STRING>Divine Right Volební právo</STRING>
       <STRING>Divine Right Veřejný názor</STRING>
@@ -734,6 +752,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Vládní (5) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Vládní (5) (Doby: Osvícení - Informační) -->
       <STRING>Constitution Ústavní právo</STRING>
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Industriální - Industriální) -->
       <STRING>Constitution Společnost národů</STRING>
       <STRING>Constitution Nový úděl</STRING>
       <STRING>Constitution Kompromisy</STRING>
@@ -772,6 +791,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Vládní (6) (Doby: Osvícení - Industriální) -->
       <!-- Hlavní výzkum - Vládní (6) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Vládní (6) (Doby: Osvícení - Informační) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Industriální - Industriální) -->
       <STRING>Great Power Velká síla</STRING>
       <STRING>Great Power Spojené státy</STRING>
       <STRING>Great Power Zachování</STRING>
@@ -801,6 +821,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Vládní (7) (Doby: Středověk - Industriální) -->
       <!-- Hlavní výzkum - Vládní (7) (Doby: Střelný prach - Industriální) -->
       <!-- Hlavní výzkum - Vládní (7) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Industriální - Industriální) -->
       <STRING>International Law Regionalismus</STRING>
       <!-- Hlavní výzkum - Vládní (7) (Doby: Ancient - Moderní) -->
       <!-- Hlavní výzkum - Vládní (7) (Doby: Primitivní - Moderní) -->
@@ -848,6 +869,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Vojenský (1) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Vojenský (1) (Doby: Osvícení - Informační) -->
       <STRING>The Art of War Vojenská akademie</STRING>
+      <!-- Hlavní výzkum - Vojenský (1) (Doby: Industriální - Industriální) -->
       <STRING>The Art of War Generální štáb</STRING>
       <STRING>The Art of War Vojenská rozvědka</STRING>
       <STRING>The Art of War Vojensko-průmyslový komplex</STRING>
@@ -887,6 +909,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Vojenský (2) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Vojenský (2) (Doby: Osvícení - Informační) -->
       <STRING>Mercenaries Národní garda</STRING>
+      <!-- Hlavní výzkum - Vojenský (2) (Doby: Industriální - Industriální) -->
       <STRING>Mercenaries Taktika kombinovaných zbraní</STRING>
       <STRING>Mercenaries Psychologická válka</STRING>
       <STRING>Mercenaries Protipovstalecká válka</STRING>
@@ -925,6 +948,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Vojenský (3) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Vojenský (3) (Doby: Osvícení - Informační) -->
       <STRING>Standing Army Logistická podpora</STRING>
+      <!-- Hlavní výzkum - Vojenský (3) (Doby: Industriální - Industriální) -->
       <STRING>Standing Army Klamání</STRING>
       <STRING>Standing Army Radar a sonar</STRING>
       <STRING>Standing Army Univerzální armádní služby</STRING>
@@ -963,6 +987,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Vojenský (4) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Vojenský (4) (Doby: Osvícení - Informační) -->
       <STRING>Conscription Nepravidelná válka</STRING>
+      <!-- Hlavní výzkum - Vojenský (4) (Doby: Industriální - Industriální) -->
       <STRING>Conscription Zákopová válka</STRING>
       <STRING>Conscription Řízená munice</STRING>
       <STRING>Conscription Sjednocené ozbrojené služby</STRING>
@@ -1001,6 +1026,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Vojenský (5) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Vojenský (5) (Doby: Osvícení - Informační) -->
       <STRING>Levee en Masse Masové odvody</STRING>
+      <!-- Hlavní výzkum - Vojenský (5) (Doby: Industriální - Industriální) -->
       <STRING>Levee en Masse Taktika infiltrace</STRING>
       <STRING>Levee en Masse Partyzánská taktika</STRING>
       <STRING>Levee en Masse Precizní zbraně</STRING>
@@ -1039,6 +1065,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Vojenský (6) (Doby: Osvícení - Industriální) -->
       <!-- Hlavní výzkum - Vojenský (6) (Doby: Osvícení - Moderní) -->
       <!-- Hlavní výzkum - Vojenský (6) (Doby: Osvícení - Informační) -->
+      <!-- Hlavní výzkum - Vojenský (6) (Doby: Industriální - Industriální) -->
       <STRING>Nation-in-Arms Národ ve zbrani</STRING>
       <STRING>Nation-in-Arms Kombinované operace</STRING>
       <STRING>Nation-in-Arms Elektronická válka</STRING>
@@ -1068,6 +1095,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <!-- Hlavní výzkum - Vojenský (7) (Doby: Středověk - Industriální) -->
       <!-- Hlavní výzkum - Vojenský (7) (Doby: Střelný prach - Industriální) -->
       <!-- Hlavní výzkum - Vojenský (7) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Vojenský (7) (Doby: Industriální - Industriální) -->
       <STRING>Selective Service Blesková válka</STRING>
       <!-- Hlavní výzkum - Vojenský (7) (Doby: Ancient - Moderní) -->
       <!-- Hlavní výzkum - Vojenský (7) (Doby: Primitivní - Moderní) -->
