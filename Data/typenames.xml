@@ -1,102 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by Scott Lewis (Big Huge Games) -->
 <!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by XMLSPY 5 Professional Ed. Release 2 (Big Huge Games) -->
-<!--LOCALIZATION -->
-<!--LOCALIZATION -->
+<!--
+
+Český překlad vytvořen pod záštitou Projektu Atlantia
+
+Chráněno licencí Creative Commons BY-NC-ND 4.0
+
+Lze jej tedy bezplatně šířit dále i jej upravovat se zachováním
+a uvedením originálního autora jímž je Projekt Atlantia.
+
+Stránka překladu:
+Hlášení chyb: https://github.com/Projekt-Atlantia/Rise-of-Nations-Extended-Edition-CZ/issues
+GitHub repozitář: https://github.com/Projekt-Atlantia/Rise-of-Nations-Extended-Edition-CZ
+Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2705269592
+
+-->
 <!--LOCALIZATION: All STRING elements.-->
-<!--LOCALIZATION -->
-<!--LOCALIZATION -->
 <ROOT>
   <AGES>
-    <STRING hash="8843171" needed="1">Classical Age</STRING>
-    <STRING hash="6818848" needed="1">Medieval Age</STRING>
-    <STRING hash="7683271" needed="1">Gunpowder Age</STRING>
-    <STRING hash="13782908" needed="1">Enlightenment Age</STRING>
-    <STRING hash="9696711" needed="1">Industrial Age</STRING>
-    <STRING hash="4270575" needed="1">Modern Age</STRING>
-    <STRING hash="11109641" needed="1">Information Age</STRING>
+    <STRING hash="8843171" needed="1">Doba železná</STRING>
+    <STRING hash="6818848" needed="1">Doba temna</STRING>
+    <STRING hash="7683271" needed="1">Doba střelného prachu</STRING>
+    <STRING hash="13782908" needed="1">Doba osvícení</STRING>
+    <STRING hash="9696711" needed="1">Doba industriální</STRING>
+    <STRING hash="4270575" needed="1">Doba moderní</STRING>
+    <STRING hash="11109641" needed="1">Doba informační</STRING>
   </AGES>
   <TECHS>
-    <STRING hash="7422563" needed="1">Written Word</STRING>
-    <STRING hash="7558886" needed="1">Mathematics</STRING>
-    <STRING hash="4209181" needed="1">Chemistry</STRING>
-    <STRING hash="10931720" needed="1">Laws of Nature</STRING>
-    <STRING hash="7436541" needed="1">Electricity</STRING>
-    <STRING hash="7373131" needed="1">Electronics</STRING>
-    <STRING hash="12979145" needed="1">Computerization</STRING>
-    <STRING hash="1692249" needed="1">Barter</STRING>
-    <STRING hash="2317946" needed="1">Coinage</STRING>
-    <STRING hash="1055307" needed="1">Trade</STRING>
-    <STRING hash="8189112" needed="1">Mercantilism</STRING>
+    <STRING hash="7422563" needed="1">Psané slovo</STRING>
+    <STRING hash="7558886" needed="1">Matematika</STRING>
+    <STRING hash="4209181" needed="1">Chemie</STRING>
+    <STRING hash="10931720" needed="1">Přírodní zákony</STRING>
+    <STRING hash="7436541" needed="1">Elektrifikace</STRING>
+    <STRING hash="7373131" needed="1">Elektronika</STRING>
+    <STRING hash="12979145" needed="1">Automatizace</STRING>
+    <STRING hash="1692249" needed="1">Výměnný obchod</STRING>
+    <STRING hash="2317946" needed="1">Ražba</STRING>
+    <STRING hash="1055307" needed="1">Obchodování</STRING>
+    <STRING hash="8189112" needed="1">Merkantilismus</STRING>
     <STRING hash="2772098" needed="1">Finance</STRING>
-    <STRING hash="8662151" needed="1">Assembly Line</STRING>
-    <STRING hash="10212836" needed="1">Globalization</STRING>
-    <STRING hash="5616641" needed="1">City State</STRING>
-    <STRING hash="1455381" needed="1">Empire</STRING>
-    <STRING hash="4168087" needed="1">Feudalism</STRING>
-    <STRING hash="7124203" needed="1">Divine Right</STRING>
-    <STRING hash="7851435" needed="1">Constitution</STRING>
-    <STRING hash="6478898" needed="1">Great Power</STRING>
-    <STRING hash="17211729" needed="1">International Law</STRING>
-    <STRING hash="10578054" needed="1">The Art of War</STRING>
-    <STRING hash="6849444" needed="1">Mercenaries</STRING>
-    <STRING hash="8563678" needed="1">Standing Army</STRING>
-    <STRING hash="8048945" needed="1">Conscription</STRING>
-    <STRING hash="10185392" needed="1">Levee en Masse</STRING>
-    <STRING hash="10290156" needed="1">Nation-in-Arms</STRING>
-    <STRING hash="16302664" needed="1">Selective Service</STRING>
+    <STRING hash="8662151" needed="1">Montážní linky</STRING>
+    <STRING hash="10212836" needed="1">Globalizace</STRING>
+    <STRING hash="5616641" needed="1">Městský stát</STRING>
+    <STRING hash="1455381" needed="1">Císařství</STRING>
+    <STRING hash="4168087" needed="1">Feudalismus</STRING>
+    <STRING hash="7124203" needed="1">Božské právo</STRING>
+    <STRING hash="7851435" needed="1">Ústavní právo</STRING>
+    <STRING hash="6478898" needed="1">Velká síla</STRING>
+    <STRING hash="17211729" needed="1">Mezinárodní právo</STRING>
+    <STRING hash="10578054" needed="1">Umění války</STRING>
+    <STRING hash="6849444" needed="1">Žoldáci</STRING>
+    <STRING hash="8563678" needed="1">Stálá armáda</STRING>
+    <STRING hash="8048945" needed="1">Branná povinnost</STRING>
+    <STRING hash="10185392" needed="1">Masové odvody</STRING>
+    <STRING hash="10290156" needed="1">Národ ve zbrani</STRING>
+    <STRING hash="16302664" needed="1">Selektivní služba</STRING>
   </TECHS>
   <MISC>
-    <STRING hash="9426192" needed="1">Missile Shield</STRING>
-    <STRING hash="30604825" needed="1">Artificial Intelligence</STRING>
-    <STRING hash="16526569" needed="1">Global Prosperity</STRING>
-    <STRING hash="13424671" needed="1">World Government</STRING>
-    <STRING hash="3073683" needed="1">Tactics</STRING>
-    <STRING hash="5502441" needed="1">Operations</STRING>
-    <STRING hash="3277741" needed="1">Strategy</STRING>
-    <STRING hash="2820121" needed="1">Religion</STRING>
-    <STRING hash="4969036" needed="1">Monotheism</STRING>
-    <STRING hash="10952500" needed="1">Existentialism</STRING>
-    <STRING hash="3410006" needed="1">Taxation</STRING>
-    <STRING hash="4575496" needed="1">Vassalage</STRING>
-    <STRING hash="14255071" needed="1">Social Contract</STRING>
-    <STRING hash="5809773" needed="1">Income Tax</STRING>
-    <STRING hash="9957886" needed="1">Fortification</STRING>
-    <STRING hash="6780593" needed="1">Bombardment</STRING>
-    <STRING hash="17966690" needed="1">Strategic Reserves</STRING>
-    <STRING hash="5757926" needed="1">Allegiance</STRING>
-    <STRING hash="10825577" needed="1">Oath of Fealty</STRING>
-    <STRING hash="5321711" needed="1">Patriotism</STRING>
-    <STRING hash="6842975" needed="1">Nationalism</STRING>
-    <STRING hash="8429887" needed="1">Construction</STRING>
-    <STRING hash="8406841" needed="1">Architecture</STRING>
-    <STRING hash="5867465" needed="1">Engineering</STRING>
-    <STRING hash="6504674" needed="1">Herbal Lore</STRING>
-    <STRING hash="3060060" needed="1">Medicine</STRING>
-    <STRING hash="14777164" needed="1">Pharmaceuticals</STRING>
-    <STRING hash="1660645" needed="1">Forage</STRING>
-    <STRING hash="1722154" needed="1">Supply</STRING>
-    <STRING hash="4572512" needed="1">Logistics</STRING>
-    <STRING hash="4346421" needed="1">Carpentry</STRING>
-    <STRING hash="13894977" needed="1">Logging Industry</STRING>
-    <STRING hash="3938041" needed="1">Papermill</STRING>
-    <STRING hash="6797357" needed="1">Agriculture</STRING>
-    <STRING hash="9608007" needed="1">Crop Rotation</STRING>
-    <STRING hash="9355065" needed="1">Food Industry</STRING>
-    <STRING hash="3959017" needed="1">Literacy</STRING>
-    <STRING hash="10082689" needed="1">Printing Press</STRING>
-    <STRING hash="15111817" needed="1">Scientific Method</STRING>
-    <STRING hash="29708143" needed="1">Institutional Research</STRING>
-    <STRING hash="11227186" needed="1">Supercomputers</STRING>
-    <STRING hash="7771103" needed="1">Metal Alloys</STRING>
-    <STRING hash="7639625" needed="1">Cold Casting</STRING>
-    <STRING hash="895218" needed="1">Steel</STRING>
-    <STRING hash="4006343" needed="1">Despotism</STRING>
-    <STRING hash="3833320" needed="1">Republic</STRING>
-    <STRING hash="3752145" needed="1">Monarchy</STRING>
-    <STRING hash="5495194" needed="1">Democracy</STRING>
-    <STRING hash="4431157" needed="1">Socialism</STRING>
-    <STRING hash="5553684" needed="1">Capitalism</STRING>
+    <STRING hash="9426192" needed="1">Protiraketová obrana</STRING>
+    <STRING hash="30604825" needed="1">Umělá inteligence</STRING>
+    <STRING hash="16526569" needed="1">Globální prosperita</STRING>
+    <STRING hash="13424671" needed="1">Světová vláda</STRING>
+    <STRING hash="3073683" needed="1">Taktizování</STRING>
+    <STRING hash="5502441" needed="1">Operace</STRING>
+    <STRING hash="3277741" needed="1">Strategie</STRING>
+    <STRING hash="2820121" needed="1">Náboženství</STRING>
+    <STRING hash="4969036" needed="1">Monoteismus</STRING>
+    <STRING hash="10952500" needed="1">Existencialismus</STRING>
+    <STRING hash="3410006" needed="1">Daně</STRING>
+    <STRING hash="4575496" needed="1">Vazalství</STRING>
+    <STRING hash="14255071" needed="1">Společenská smlouva</STRING>
+    <STRING hash="5809773" needed="1">Výběr daní</STRING>
+    <STRING hash="9957886" needed="1">Opevnění</STRING>
+    <STRING hash="6780593" needed="1">Bombardování</STRING>
+    <STRING hash="17966690" needed="1">Strategické rezervy</STRING>
+    <STRING hash="5757926" needed="1">Loajálnost</STRING>
+    <STRING hash="10825577" needed="1">Přísaha věrnosti</STRING>
+    <STRING hash="5321711" needed="1">Patriotismus</STRING>
+    <STRING hash="6842975" needed="1">Nacionalismus</STRING>
+    <STRING hash="8429887" needed="1">Konstrukce</STRING>
+    <STRING hash="8406841" needed="1">Architektura</STRING>
+    <STRING hash="5867465" needed="1">Inženýrství</STRING>
+    <STRING hash="6504674" needed="1">Přírodní léčení</STRING>
+    <STRING hash="3060060" needed="1">Medicína</STRING>
+    <STRING hash="14777164" needed="1">Léčiva</STRING>
+    <STRING hash="1660645" needed="1">Pícniny</STRING>
+    <STRING hash="1722154" needed="1">Zásobování</STRING>
+    <STRING hash="4572512" needed="1">Logistika</STRING>
+    <STRING hash="4346421" needed="1">Tesařství</STRING>
+    <STRING hash="13894977" needed="1">Těžba dřeva</STRING>
+    <STRING hash="3938041" needed="1">Papírnictví</STRING>
+    <STRING hash="6797357" needed="1">Zemědělství</STRING>
+    <STRING hash="9608007" needed="1">Střídání plodin</STRING>
+    <STRING hash="9355065" needed="1">Potravinářský průmysl</STRING>
+    <STRING hash="3959017" needed="1">Gramotnost</STRING>
+    <STRING hash="10082689" needed="1">Tiskařství</STRING>
+    <STRING hash="15111817" needed="1">Vědecké metody</STRING>
+    <STRING hash="29708143" needed="1">Institucionální výzkum</STRING>
+    <STRING hash="11227186" needed="1">Superpočítače</STRING>
+    <STRING hash="7771103" needed="1">Slévání kovu</STRING>
+    <STRING hash="7639625" needed="1">Studené odlévání</STRING>
+    <STRING hash="895218" needed="1">Ocelářství</STRING>
+    <STRING hash="4006343" needed="1">Despotismus</STRING>
+    <STRING hash="3833320" needed="1">Republika</STRING>
+    <STRING hash="3752145" needed="1">Monarchie</STRING>
+    <STRING hash="5495194" needed="1">Demokracie</STRING>
+    <STRING hash="4431157" needed="1">Socialismus</STRING>
+    <STRING hash="5553684" needed="1">Kapitalismus</STRING>
   </MISC>
   <GOODS>
     <STRING hash="564640" needed="1">Food</STRING>

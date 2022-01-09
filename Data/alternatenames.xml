@@ -1,687 +1,1395 @@
+<!--
+
+Český překlad vytvořen pod záštitou Projektu Atlantia
+
+Chráněno licencí Creative Commons BY-NC-ND 4.0
+
+Lze jej tedy bezplatně šířit dále i jej upravovat se zachováním
+a uvedením originálního autora jímž je Projekt Atlantia.
+
+Stránka překladu:
+Hlášení chyb: https://github.com/Projekt-Atlantia/Rise-of-Nations-Extended-Edition-CZ/issues
+GitHub repozitář: https://github.com/Projekt-Atlantia/Rise-of-Nations-Extended-Edition-CZ
+Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2705269592
+
+-->
 <ROOT>
   <!-- LOCALIZATION: All STRING elements under ALTERNATENAMES/EPOCHTYPE and ALTERNATENAMES2/EPOCHTYPE-->
   <ALTERNATENAMES>
     <EPOCHTYPE name="Written Word">
-      <STRING>Written Word</STRING>
-      <STRING>Education</STRING>
-      <STRING>Deductive Reasoning</STRING>
-      <STRING>Biology</STRING>
-      <STRING>Anatomy</STRING>
-      <STRING>Thermodynamics</STRING>
-      <STRING>Statistics</STRING>
-      <STRING>Nuclear Physics</STRING>
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Ancient - Středověk) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Ancient - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Ancient - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Ancient - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Ancient - Moderní) -->
+      <STRING>Written Word Psaní</STRING>
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Primitivní - Primitivní) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Primitivní - Středověk) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Primitivní - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Primitivní - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Primitivní - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Primitivní - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Primitivní - Informační) -->
+      <STRING>Written Word Vzdělání</STRING>
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Středověk - Středověk) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Středověk - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Středověk - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Středověk - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Středověk - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Středověk - Informační) -->
+      <STRING>Written Word Deduktivní uvažování</STRING>
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Střelný prach - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Střelný prach - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Střelný prach - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Střelný prach - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Střelný prach - Informační) -->
+      <STRING>Written Word Biologie</STRING>
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Osvícení - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Osvícení - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Osvícení - Informační) -->
+      <STRING>Written Word Anatomie</STRING>
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Industriální - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Industriální - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Industriální - Informační) -->
+      <STRING>Written Word Termodynamika</STRING>
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Moderní - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Moderní - Informační) -->
+      <STRING>Written Word Statistika</STRING>
+      <!-- Hlavní výzkum - Vědecký (1) (Doby: Informační - Informační) -->
+      <STRING>Written Word Nukleární fyzika</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Mathematics">
-      <STRING>Irrigation</STRING>
-      <STRING>Mathematics</STRING>
-      <STRING>Timekeeping</STRING>
-      <STRING>Empiricism</STRING>
-      <STRING>Mechanical Energy</STRING>
-      <STRING>Electromagnetism</STRING>
-      <STRING>Acoustics</STRING>
-      <STRING>Genetics</STRING>
+      <STRING>Mathematics Zavlažování</STRING>
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Ancient - Středověk) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Ancient - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Ancient - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Ancient - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Ancient - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Primitivní - Primitivní) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Primitivní - Středověk) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Primitivní - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Primitivní - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Primitivní - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Primitivní - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Primitivní - Informační) -->
+      <STRING>Mathematics Matematika</STRING>
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Středověk - Středověk) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Středověk - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Středověk - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Středověk - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Středověk - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Středověk - Informační) -->
+      <STRING>Mathematics Měření času</STRING>
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Střelný prach - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Střelný prach - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Střelný prach - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Střelný prach - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Střelný prach - Informační) -->
+      <STRING>Mathematics Empirismus</STRING>
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Osvícení - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Osvícení - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Osvícení - Informační) -->
+      <STRING>Mathematics Mechanická energie</STRING>
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Industriální - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Industriální - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Industriální - Informační) -->
+      <STRING>Mathematics Elektromagnetismus </STRING>
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Moderní - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Moderní - Informační) -->
+      <STRING>Mathematics Akustika</STRING>
+      <!-- Hlavní výzkum - Vědecký (2) (Doby: Informační - Informační) -->
+      <STRING>Mathematics Genetika</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Chemistry">
-      <STRING>Celestial Observation</STRING>
-      <STRING>Water Energy</STRING>
-      <STRING>Chemistry</STRING>
-      <STRING>Scientific Method</STRING>
-      <STRING>Calculus</STRING>
-      <STRING>Pharmacology</STRING>
-      <STRING>Relativity</STRING>
-      <STRING>Quantum Mechanics</STRING>
+      <STRING>Chemistry Pozorování nebes</STRING>
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Primitivní - Primitivní) -->
+      <STRING>Chemistry Vodní energie</STRING>
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Ancient - Středověk) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Ancient - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Ancient - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Ancient - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Ancient - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Primitivní - Středověk) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Primitivní - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Primitivní - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Primitivní - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Primitivní - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Primitivní - Informační) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Středověk - Středověk) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Středověk - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Středověk - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Středověk - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Středověk - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Středověk - Informační) -->
+      <STRING>Chemistry Chemie</STRING>
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Střelný prach - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Střelný prach - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Střelný prach - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Střelný prach - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Střelný prach - Informační) -->
+      <STRING>Chemistry Vědecké metody</STRING>
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Osvícení - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Osvícení - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Osvícení - Informační) -->
+      <STRING>Chemistry Výpočty</STRING>
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Industriální - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Industriální - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Industriální - Informační) -->
+      <STRING>Chemistry Farmakologie</STRING>
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Moderní - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Moderní - Informační) -->
+      <STRING>Chemistry Relativita</STRING>
+      <!-- Hlavní výzkum - Vědecký (3) (Doby: Informační - Informační) -->
+      <STRING>Chemistry Kvantová mechanika</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Laws of Nature">
-      <STRING>Leverage</STRING>
-      <STRING>Temperature</STRING>
-      <STRING>Horticulture</STRING>
-      <STRING>Laws of Nature</STRING>
-      <STRING>Geology</STRING>
-      <STRING>Immunization</STRING>
-      <STRING>Microbiology</STRING>
-      <STRING>Microchips</STRING>
+      <STRING>Laws of Nature Vliv</STRING>
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Primitivní - Primitivní) -->
+      <STRING>Laws of Nature Teplota</STRING>
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Ancient - Středověk) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Primitivní - Středověk) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Středověk - Středověk) -->
+      <STRING>Laws of Nature Zahradnictví</STRING>
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Ancient - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Ancient - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Ancient - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Ancient - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Primitivní - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Primitivní - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Primitivní - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Primitivní - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Primitivní - Informační) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Středověk - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Středověk - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Středověk - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Středověk - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Středověk - Informační) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Střelný prach - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Střelný prach - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Střelný prach - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Střelný prach - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Střelný prach - Informační) -->
+      <STRING>Laws of Nature Přírodní zákony</STRING>
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Osvícení - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Osvícení - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Osvícení - Informační) -->
+      <STRING>Laws of Nature Geologie</STRING>
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Industriální - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Industriální - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Industriální - Informační) -->
+      <STRING>Laws of Nature Imunizace</STRING>
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Moderní - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Moderní - Informační) -->
+      <STRING>Laws of Nature Mikrobiologie</STRING>
+      <!-- Hlavní výzkum - Vědecký (4) (Doby: Informační - Informační) -->
+      <STRING>Laws of Nature Mikročipy</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Electricity">
-      <STRING>Calendar</STRING>
-      <STRING>Wind Energy</STRING>
-      <STRING>Astronomy</STRING>
-      <STRING>Vernacular</STRING>
-      <STRING>Electricity</STRING>
-      <STRING>Aeronautics</STRING>
-      <STRING>Antibiotics</STRING>
-      <STRING>Astrophysics</STRING>
+      <STRING>Electricity Kalendář</STRING>
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Primitivní - Primitivní) -->
+      <STRING>Electricity Větrná energie</STRING>
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Ancient - Středověk) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Primitivní - Středověk) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Středověk - Středověk) -->
+      <STRING>Electricity Astronomie</STRING>
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Ancient - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Primitivní - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Středověk - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Střelný prach - Střelný prach) -->
+      <STRING>Electricity Nářečí</STRING>
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Ancient - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Ancient - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Ancient - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Primitivní - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Primitivní - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Primitivní - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Primitivní - Informační) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Středověk - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Středověk - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Středověk - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Středověk - Informační) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Střelný prach - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Střelný prach - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Střelný prach - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Střelný prach - Informační) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Osvícení - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Osvícení - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Osvícení - Informační) -->
+      <STRING>Electricity Elektrifikace</STRING>
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Industriální - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Industriální - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Industriální - Informační) -->
+      <STRING>Electricity Aerodynamika</STRING>
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Moderní - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Moderní - Informační) -->
+      <STRING>Electricity Antibiotika</STRING>
+      <!-- Hlavní výzkum - Vědecký (5) (Doby: Informační - Informační) -->
+      <STRING>Electricity Astrofyzika</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Electronics">
-      <STRING>Weights and Measures</STRING>
-      <STRING>Astrology</STRING>
-      <STRING>Machinery</STRING>
-      <STRING>Scientific Literature</STRING>
-      <STRING>Botany</STRING>
-      <STRING>Electronics</STRING>
-      <STRING>Meteorology</STRING>
-      <STRING>Laser Technology</STRING>
+      <STRING>Electronics Váhy a míry</STRING>
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Primitivní - Primitivní) -->
+      <STRING>Electronics Astrologie</STRING>
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Ancient - Středověk) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Primitivní - Středověk) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Středověk - Středověk) -->
+      <STRING>Electronics Strojírenství</STRING>
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Ancient - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Primitivní - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Středověk - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Střelný prach - Střelný prach) -->
+      <STRING>Electronics Vědecká literatura</STRING>
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Ancient - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Primitivní - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Středověk - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Střelný prach - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Osvícení - Osvícení) -->
+      <STRING>Electronics Botanika</STRING>
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Ancient - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Ancient - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Primitivní - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Primitivní - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Primitivní - Informační) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Středověk - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Středověk - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Středověk - Informační) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Střelný prach - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Střelný prach - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Střelný prach - Informační) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Osvícení - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Osvícení - Informační) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Industriální - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Industriální - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Industriální - Informační) -->
+      <STRING>Electronics Elektronika</STRING>
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Moderní - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Moderní - Informační) -->
+      <STRING>Electronics Meteorologie</STRING>
+      <!-- Hlavní výzkum - Vědecký (6) (Doby: Informační - Informační) -->
+      <STRING>Electronics Laserová technologie</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Computerization">
-      <STRING>Heat Transfer</STRING>
-      <STRING>Physical Healing</STRING>
-      <STRING>Optics</STRING>
-      <STRING>Physics</STRING>
-      <STRING>Evolution</STRING>
-      <STRING>Hydroelectricity</STRING>
-      <STRING>Computerization</STRING>
-      <STRING>Fiber Optics</STRING>
+      <STRING>Computerization Přenos tepla</STRING>
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Primitivní - Primitivní) -->
+      <STRING>Computerization Zdravotnictví</STRING>
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Ancient - Středověk) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Primitivní - Středověk) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Středověk - Středověk) -->
+      <STRING>Computerization Optika</STRING>
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Ancient - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Primitivní - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Středověk - Střelný prach) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Střelný prach - Střelný prach) -->
+      <STRING>Computerization Fyzika</STRING>
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Ancient - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Primitivní - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Středověk - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Střelný prach - Osvícení) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Osvícení - Osvícení) -->
+      <STRING>Computerization Evoluce</STRING>
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Ancient - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Primitivní - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Středověk - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Střelný prach - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Industriální - Industriální) -->
+      <STRING>Computerization Vodní elektřina</STRING>
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Ancient - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Primitivní - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Primitivní - Informační) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Středověk - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Středověk - Informační) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Střelný prach - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Střelný prach - Informační) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Osvícení - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Osvícení - Informační) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Industriální - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Industriální - Informační) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Moderní - Moderní) -->
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Moderní - Informační) -->
+      <STRING>Computerization Automatizace</STRING>
+      <!-- Hlavní výzkum - Vědecký (7) (Doby: Informační - Informační) -->
+      <STRING>Computerization Vláknová optika</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Barter">
-      <STRING>Barter</STRING>
-      <STRING>Roads</STRING>
-      <STRING>Cartography</STRING>
-      <STRING>Compass</STRING>
-      <STRING>Longitude</STRING>
-      <STRING>Wealth Standard</STRING>
-      <STRING>Private Enterprise</STRING>
-      <STRING>Super-Highways</STRING>
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Ancient - Středověk) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Ancient - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Ancient - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Ancient - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Ancient - Moderní) -->
+      <STRING>Barter Výměnný obchod</STRING>
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Primitivní - Primitivní) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Primitivní - Středověk) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Primitivní - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Primitivní - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Primitivní - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Primitivní - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Primitivní - Informační) -->
+      <STRING>Barter Cesty</STRING>
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Středověk - Středověk) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Středověk - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Středověk - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Středověk - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Středověk - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Středověk - Informační) -->
+      <STRING>Barter Kartografie</STRING>
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Střelný prach - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Střelný prach - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Střelný prach - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Střelný prach - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Střelný prach - Informační) -->
+      <STRING>Barter Kompas</STRING>
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Osvícení - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Osvícení - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Osvícení - Informační) -->
+      <STRING>Barter Zeměpisné souřadnice</STRING>
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Industriální - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Industriální - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Industriální - Informační) -->
+      <STRING>Barter Měna</STRING>
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Moderní - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Moderní - Informační) -->
+      <STRING>Barter Manufaktura</STRING>
+      <!-- Hlavní výzkum - Obchodní (1) (Doby: Informační - Informační) -->
+      <STRING>Barter Super dálnice</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Coinage">
-      <STRING>Pack Animals</STRING>
-      <STRING>Coinage</STRING>
-      <STRING>Stellar Navigation</STRING>
-      <STRING>Latitude</STRING>
-      <STRING>Central Banking</STRING>
-      <STRING>Telegraph and Telephone</STRING>
-      <STRING>Media</STRING>
-      <STRING>Fiscal Regulation</STRING>
+      <STRING>Coinage Chov zvířat</STRING>
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Ancient - Středověk) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Ancient - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Ancient - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Ancient - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Ancient - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Primitivní - Primitivní) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Primitivní - Středověk) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Primitivní - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Primitivní - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Primitivní - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Primitivní - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Primitivní - Informační) -->
+      <STRING>Coinage Ražba</STRING>
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Středověk - Středověk) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Středověk - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Středověk - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Středověk - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Středověk - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Středověk - Informační) -->
+      <STRING>Coinage Hvězdná navigace</STRING>
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Střelný prach - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Střelný prach - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Střelný prach - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Střelný prach - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Střelný prach - Informační) -->
+      <STRING>Coinage Zeměpisné souřadnice</STRING>
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Osvícení - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Osvícení - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Osvícení - Informační) -->
+      <STRING>Coinage Bankovnictví</STRING>
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Industriální - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Industriální - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Industriální - Informační) -->
+      <STRING>Coinage Telefony</STRING>
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Moderní - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Moderní - Informační) -->
+      <STRING>Coinage Masová média</STRING>
+      <!-- Hlavní výzkum - Obchodní (2) (Doby: Informační - Informační) -->
+      <STRING>Coinage Fiskální nařízení</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Trade">
-      <STRING>Craftsmanship</STRING>
-      <STRING>Exploration</STRING>
-      <STRING>Trade</STRING>
-      <STRING>Geography</STRING>
-      <STRING>Railroads</STRING>
-      <STRING>Stock Exchange</STRING>
-      <STRING>Monetary Reserves</STRING>
-      <STRING>Satellite Communication</STRING>
+      <STRING>Trade Řemeslnictví</STRING>
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Primitivní - Primitivní) -->
+      <STRING>Trade Průzkumnictví</STRING>
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Ancient - Středověk) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Ancient - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Ancient - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Ancient - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Ancient - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Primitivní - Středověk) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Primitivní - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Primitivní - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Primitivní - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Primitivní - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Primitivní - Informační) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Středověk - Středověk) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Středověk - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Středověk - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Středověk - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Středověk - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Středověk - Informační) -->
+      <STRING>Trade Obchod</STRING>
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Střelný prach - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Střelný prach - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Střelný prach - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Střelný prach - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Střelný prach - Informační) -->
+      <STRING>Trade Geografie</STRING>
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Osvícení - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Osvícení - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Osvícení - Informační) -->
+      <STRING>Trade Železnice</STRING>
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Industriální - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Industriální - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Industriální - Informační) -->
+      <STRING>Trade Burza</STRING>
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Moderní - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Moderní - Informační) -->
+      <STRING>Trade Peněžní rezervy</STRING>
+      <!-- Hlavní výzkum - Obchodní (3) (Doby: Informační - Informační) -->
+      <STRING>Trade Satelitní komunikace</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Mercantilism">
-      <STRING>Containers</STRING>
-      <STRING>Writing Implements</STRING>
-      <STRING>Paper Currency</STRING>
-      <STRING>Mercantilism</STRING>
-      <STRING>Postal Service</STRING>
-      <STRING>Anti-Trust Legislation</STRING>
-      <STRING>Advertising</STRING>
-      <STRING>Recycling</STRING>
+      <STRING>Mercantilism Kontejnery</STRING>
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Primitivní - Primitivní) -->
+      <STRING>Mercantilism Psací potřeby</STRING>
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Ancient - Středověk) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Primitivní - Středověk) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Středověk - Středověk) -->
+      <STRING>Mercantilism Papírové bankovky</STRING>
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Ancient - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Ancient - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Ancient - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Ancient - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Primitivní - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Primitivní - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Primitivní - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Primitivní - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Primitivní - Informační) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Středověk - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Středověk - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Středověk - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Středověk - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Středověk - Informační) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Střelný prach - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Střelný prach - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Střelný prach - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Střelný prach - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Střelný prach - Informační) -->
+      <STRING>Mercantilism Merkantilismus</STRING>
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Osvícení - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Osvícení - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Osvícení - Informační) -->
+      <STRING>Mercantilism Poštovní služby</STRING>
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Industriální - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Industriální - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Industriální - Informační) -->
+      <STRING>Mercantilism Antimonopolní legislativa</STRING>
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Moderní - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Moderní - Informační) -->
+      <STRING>Mercantilism Reklama</STRING>
+      <!-- Hlavní výzkum - Obchodní (4) (Doby: Informační - Informační) -->
+      <STRING>Mercantilism Recyklace</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Finance">
-      <STRING>Weaving</STRING>
-      <STRING>Beam Bridges</STRING>
-      <STRING>Distance Measurement</STRING>
-      <STRING>Surveying</STRING>
-      <STRING>Finance</STRING>
-      <STRING>Radio</STRING>
-      <STRING>Precision Craftsmanship</STRING>
-      <STRING>Free Trade</STRING>
+      <STRING>Finance Tkaní</STRING>
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Primitivní - Primitivní) -->
+      <STRING>Finance Trámové mosty</STRING>
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Ancient - Středověk) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Primitivní - Středověk) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Středověk - Středověk) -->
+      <STRING>Finance Měrné jednotky</STRING>
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Ancient - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Primitivní - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Středověk - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Střelný prach - Střelný prach) -->
+      <STRING>Finance Zeměměřictví</STRING>
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Ancient - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Ancient - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Ancient - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Primitivní - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Primitivní - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Primitivní - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Primitivní - Informační) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Středověk - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Středověk - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Středověk - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Středověk - Informační) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Střelný prach - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Střelný prach - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Střelný prach - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Střelný prach - Informační) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Osvícení - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Osvícení - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Osvícení - Informační) -->
+      <STRING>Finance Finance</STRING>
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Industriální - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Industriální - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Industriální - Informační) -->
+      <STRING>Finance Rádio</STRING>
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Moderní - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Moderní - Informační) -->
+      <STRING>Finance Precizní řemeslnictví</STRING>
+      <!-- Hlavní výzkum - Obchodní (5) (Doby: Informační - Informační) -->
+      <STRING>Finance Volný obchod</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Assembly Line">
-      <STRING>Wheeled Transport</STRING>
-      <STRING>Abacus</STRING>
-      <STRING>Linguistics</STRING>
-      <STRING>Canals</STRING>
-      <STRING>Accounting</STRING>
-      <STRING>Assembly Line</STRING>
-      <STRING>Television</STRING>
-      <STRING>Internet</STRING>
+      <STRING>Assembly Line Kolo</STRING>
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Primitivní - Primitivní) -->
+      <STRING>Assembly Line Počítadlo</STRING>
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Ancient - Středověk) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Primitivní - Středověk) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Středověk - Středověk) -->
+      <STRING>Assembly Line Lingvistika</STRING>
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Ancient - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Primitivní - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Středověk - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Střelný prach - Střelný prach) -->
+      <STRING>Assembly Line Kanalizace</STRING>
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Ancient - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Primitivní - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Středověk - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Střelný prach - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Osvícení - Osvícení) -->
+      <STRING>Assembly Line Účetnictví</STRING>
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Ancient - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Ancient - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Primitivní - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Primitivní - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Primitivní - Informační) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Středověk - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Středověk - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Středověk - Informační) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Střelný prach - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Střelný prach - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Střelný prach - Informační) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Osvícení - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Osvícení - Informační) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Industriální - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Industriální - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Industriální - Informační) -->
+      <STRING>Assembly Line Montážní linky</STRING>
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Moderní - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Moderní - Informační) -->
+      <STRING>Assembly Line Televize</STRING>
+      <!-- Hlavní výzkum - Obchodní (6) (Doby: Informační - Informační) -->
+      <STRING>Assembly Line Internet</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Globalization">
-      <STRING>Direction</STRING>
-      <STRING>Paper and Parchment</STRING>
-      <STRING>Tribute</STRING>
-      <STRING>Monetary Exchange</STRING>
-      <STRING>Protective Tariffs</STRING>
-      <STRING>Photography and Film</STRING>
-      <STRING>Globalization</STRING>
-      <STRING>Wireless Technology</STRING>
+      <STRING>Globalization Směrnice</STRING>
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Primitivní - Primitivní) -->
+      <STRING>Globalization Papír a pergamen</STRING>
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Ancient - Středověk) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Primitivní - Středověk) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Středověk - Středověk) -->
+      <STRING>Globalization Úplatky</STRING>
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Ancient - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Primitivní - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Středověk - Střelný prach) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Střelný prach - Střelný prach) -->
+      <STRING>Globalization Měnová směna</STRING>
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Ancient - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Primitivní - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Středověk - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Střelný prach - Osvícení) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Osvícení - Osvícení) -->
+      <STRING>Globalization Ochranné tarify</STRING>
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Ancient - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Primitivní - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Středověk - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Střelný prach - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Industriální - Industriální) -->
+      <STRING>Globalization Fotografie a filmy</STRING>
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Ancient - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Primitivní - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Primitivní - Informační) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Středověk - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Středověk - Informační) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Střelný prach - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Střelný prach - Informační) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Osvícení - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Osvícení - Informační) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Industriální - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Industriální - Informační) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Moderní - Moderní) -->
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Moderní - Informační) -->
+      <STRING>Globalization Globalizace</STRING>
+      <!-- Hlavní výzkum - Obchodní (7) (Doby: Informační - Informační) -->
+      <STRING>Globalization Bezdrátové technologie</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="City State">
-      <STRING>City State</STRING>
-      <STRING>Government</STRING>
-      <STRING>Sovereignty</STRING>
-      <STRING>Politics</STRING>
-      <STRING>Rights of Man</STRING>
-      <STRING>Constitutional Monarchy</STRING>
-      <STRING>Populism</STRING>
-      <STRING>Civil Rights</STRING>
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Ancient - Středověk) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Ancient - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Ancient - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Ancient - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Ancient - Moderní) -->
+      <STRING>City State Městský stát</STRING>
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Primitivní - Primitivní) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Primitivní - Středověk) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Primitivní - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Primitivní - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Primitivní - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Primitivní - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Primitivní - Informační) -->
+      <STRING>City State Vláda</STRING>
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Středověk - Středověk) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Středověk - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Středověk - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Středověk - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Středověk - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Středověk - Informační) -->
+      <STRING>City State Suverenita</STRING>
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Střelný prach - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Střelný prach - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Střelný prach - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Střelný prach - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Střelný prach - Informační) -->
+      <STRING>City State Politika</STRING>
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Osvícení - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Osvícení - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Osvícení - Informační) -->
+      <STRING>City State Lidská práva</STRING>
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Industriální - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Industriální - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Industriální - Informační) -->
+      <STRING>City State Konstituční monarchie</STRING>
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Moderní - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Moderní - Informační) -->
+      <STRING>City State Populismus</STRING>
+      <!-- Hlavní výzkum - Vládní (1) (Doby: Informační - Informační) -->
+      <STRING>City State Občanská práva</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Empire">
-      <STRING>Tradition and Ritual</STRING>
-      <STRING>Empire</STRING>
-      <STRING>Treasury</STRING>
-      <STRING>Colonialism</STRING>
-      <STRING>Federalism</STRING>
-      <STRING>Pacts and Alliances</STRING>
-      <STRING>Internal Revenue</STRING>
-      <STRING>Urban Renewal</STRING>
+      <STRING>Empire Tradice a rituály</STRING>
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Ancient - Středověk) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Ancient - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Ancient - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Ancient - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Ancient - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Primitivní - Primitivní) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Primitivní - Středověk) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Primitivní - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Primitivní - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Primitivní - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Primitivní - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Primitivní - Informační) -->
+      <STRING>Empire Císařství</STRING>
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Středověk - Středověk) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Středověk - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Středověk - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Středověk - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Středověk - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Středověk - Informační) -->
+      <STRING>Empire Státní pokladna</STRING>
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Střelný prach - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Střelný prach - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Střelný prach - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Střelný prach - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Střelný prach - Informační) -->
+      <STRING>Empire Kolonialismus</STRING>
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Osvícení - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Osvícení - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Osvícení - Informační) -->
+      <STRING>Empire Federalismus</STRING>
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Industriální - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Industriální - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Industriální - Informační) -->
+      <STRING>Empire Pakty a aliance</STRING>
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Moderní - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Moderní - Informační) -->
+      <STRING>Empire Interní příjmy</STRING>
+      <!-- Hlavní výzkum - Vládní (2) (Doby: Informační - Informační) -->
+      <STRING>Empire Obnova měst</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Feudalism">
-      <STRING>Writs and Decrees</STRING>
-      <STRING>Senate</STRING>
-      <STRING>Feudalism</STRING>
-      <STRING>Constabulary</STRING>
-      <STRING>Balance of Powers</STRING>
-      <STRING>Rule of Law</STRING>
-      <STRING>Budget Management</STRING>
-      <STRING>Government Ethics</STRING>
+      <STRING>Feudalism Spisy a dekrety</STRING>
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Primitivní - Primitivní) -->
+      <STRING>Feudalism Senát</STRING>
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Ancient - Středověk) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Ancient - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Ancient - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Ancient - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Ancient - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Primitivní - Středověk) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Primitivní - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Primitivní - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Primitivní - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Primitivní - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Primitivní - Informační) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Středověk - Středověk) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Středověk - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Středověk - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Středověk - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Středověk - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Středověk - Informační) -->
+      <STRING>Feudalism Feudalismus</STRING>
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Střelný prach - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Střelný prach - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Střelný prach - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Střelný prach - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Střelný prach - Informační) -->
+      <STRING>Feudalism Policie</STRING>
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Osvícení - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Osvícení - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Osvícení - Informační) -->
+      <STRING>Feudalism Rovnováha sil</STRING>
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Industriální - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Industriální - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Industriální - Informační) -->
+      <STRING>Feudalism Právní stát</STRING>
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Moderní - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Moderní - Informační) -->
+      <STRING>Feudalism Správa rozpočtu</STRING>
+      <!-- Hlavní výzkum - Vládní (3) (Doby: Informační - Informační) -->
+      <STRING>Feudalism Vládní etika</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Divine Right">
-      <STRING>Ancestor Worship</STRING>
-      <STRING>Magistrates</STRING>
-      <STRING>Civil Service</STRING>
-      <STRING>Divine Right</STRING>
-      <STRING>Bill of Rights</STRING>
-      <STRING>Realpolitik</STRING>
-      <STRING>Universal Suffrage</STRING>
-      <STRING>Public Opinion</STRING>
+      <STRING>Divine Right Uctívání předků</STRING>
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Primitivní - Primitivní) -->
+      <STRING>Divine Right Soudci</STRING>
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Ancient - Středověk) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Primitivní - Středověk) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Středověk - Středověk) -->
+      <STRING>Divine Right Státní služba</STRING>
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Ancient - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Ancient - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Ancient - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Ancient - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Primitivní - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Primitivní - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Primitivní - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Primitivní - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Primitivní - Informační) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Středověk - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Středověk - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Středověk - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Středověk - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Středověk - Informační) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Střelný prach - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Střelný prach - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Střelný prach - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Střelný prach - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Střelný prach - Informační) -->
+      <STRING>Divine Right Božské právo</STRING>
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Osvícení - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Osvícení - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Osvícení - Informační) -->
+      <STRING>Divine Right Listina práv a svobod</STRING>
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Industriální - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Industriální - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Industriální - Informační) -->
+      <STRING>Divine Right Reálpolitika</STRING>
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Moderní - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Moderní - Informační) -->
+      <STRING>Divine Right Volební právo</STRING>
+      <!-- Hlavní výzkum - Vládní (4) (Doby: Informační - Informační) -->
+      <STRING>Divine Right Veřejný názor</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Constitution">
-      <STRING>Ruling Assemblies</STRING>
-      <STRING>Jurisprudence</STRING>
-      <STRING>Statesmanship</STRING>
-      <STRING>Bureaucracy</STRING>
-      <STRING>Constitution</STRING>
-      <STRING>League of Nations</STRING>
-      <STRING>New Deal</STRING>
-      <STRING>Bipartisanship</STRING>
+      <STRING>Constitution Vládnoucí shromáždění</STRING>
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Primitivní - Primitivní) -->
+      <STRING>Constitution Soudnictví</STRING>
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Ancient - Středověk) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Primitivní - Středověk) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Středověk - Středověk) -->
+      <STRING>Constitution Státnictví</STRING>
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Ancient - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Primitivní - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Středověk - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Střelný prach - Střelný prach) -->
+      <STRING>Constitution Byrokracie</STRING>
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Ancient - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Ancient - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Ancient - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Primitivní - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Primitivní - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Primitivní - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Primitivní - Informační) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Středověk - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Středověk - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Středověk - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Středověk - Informační) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Střelný prach - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Střelný prach - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Střelný prach - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Střelný prach - Informační) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Osvícení - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Osvícení - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Osvícení - Informační) -->
+      <STRING>Constitution Ústavní právo</STRING>
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Industriální - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Industriální - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Industriální - Informační) -->
+      <STRING>Constitution Společnost národů</STRING>
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Moderní - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Moderní - Informační) -->
+      <STRING>Constitution Nový úděl</STRING>
+      <!-- Hlavní výzkum - Vládní (5) (Doby: Informační - Informační) -->
+      <STRING>Constitution Kompromisy</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Great Power">
-      <STRING>Civil Law</STRING>
-      <STRING>Legislation</STRING>
-      <STRING>Jurisdiction</STRING>
-      <STRING>Branches of Government</STRING>
-      <STRING>Voting Rights</STRING>
-      <STRING>Great Power</STRING>
-      <STRING>United Nations</STRING>
-      <STRING>Conservation</STRING>
+      <STRING>Great Power Občanská práva</STRING>
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Primitivní - Primitivní) -->
+      <STRING>Great Power Legislativa</STRING>
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Ancient - Středověk) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Primitivní - Středověk) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Středověk - Středověk) -->
+      <STRING>Great Power Soudnictví</STRING>
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Ancient - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Primitivní - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Středověk - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Střelný prach - Střelný prach) -->
+      <STRING>Great Power Odvětví vlády</STRING>
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Ancient - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Primitivní - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Středověk - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Střelný prach - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Osvícení - Osvícení) -->
+      <STRING>Great Power Volební právo</STRING>
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Ancient - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Ancient - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Primitivní - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Primitivní - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Primitivní - Informační) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Středověk - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Středověk - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Středověk - Informační) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Střelný prach - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Střelný prach - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Střelný prach - Informační) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Osvícení - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Osvícení - Informační) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Industriální - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Industriální - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Industriální - Informační) -->
+      <STRING>Great Power Velká síla</STRING>
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Moderní - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Moderní - Informační) -->
+      <STRING>Great Power Spojené státy</STRING>
+      <!-- Hlavní výzkum - Vládní (6) (Doby: Informační - Informační) -->
+      <STRING>Great Power Zachování</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="International Law">
-      <STRING>Civil Records</STRING>
-      <STRING>Morality</STRING>
-      <STRING>Despotism</STRING>
-      <STRING>Revolution</STRING>
-      <STRING>Party Politics</STRING>
-      <STRING>Regionalism</STRING>
-      <STRING>International Law</STRING>
-      <STRING>New World Order</STRING>
+      <STRING>International Law Civilní záznamy</STRING>
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Primitivní - Primitivní) -->
+      <STRING>International Law Morálnost</STRING>
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Ancient - Středověk) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Primitivní - Středověk) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Středověk - Středověk) -->
+      <STRING>International Law Despotismus</STRING>
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Ancient - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Primitivní - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Středověk - Střelný prach) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Střelný prach - Střelný prach) -->
+      <STRING>International Law Revoluce</STRING>
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Ancient - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Primitivní - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Středověk - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Střelný prach - Osvícení) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Osvícení - Osvícení) -->
+      <STRING>International Law Stranická politika</STRING>
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Ancient - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Primitivní - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Středověk - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Střelný prach - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Osvícení - Industriální) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Industriální - Industriální) -->
+      <STRING>International Law Regionalismus</STRING>
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Ancient - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Primitivní - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Primitivní - Informační) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Středověk - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Středověk - Informační) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Střelný prach - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Střelný prach - Informační) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Osvícení - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Osvícení - Informační) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Industriální - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Industriální - Informační) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Moderní - Moderní) -->
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Moderní - Informační) -->
+      <STRING>International Law Mezinárodní právo</STRING>
+      <!-- Hlavní výzkum - Vládní (7) (Doby: Informační - Informační) -->
+      <STRING>International Law Nový světový řád</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="The Art of War">
-      <STRING>The Art of War</STRING>
-      <STRING>Officer Corps</STRING>
-      <STRING>Feudal Levies</STRING>
-      <STRING>Firepower</STRING>
-      <STRING>Military Academy</STRING>
-      <STRING>General Staff</STRING>
-      <STRING>Military Intelligence</STRING>
-      <STRING>Military-Industrial Complex</STRING>
+      <STRING>Umění války</STRING>
+      <STRING>Vojevůdci</STRING>
+      <STRING>Vazalství</STRING>
+      <STRING>Vylepšená výroba zbraní</STRING>
+      <STRING>Vojenská akademie</STRING>
+      <STRING>Generální štáb</STRING>
+      <STRING>Vojenská rozvědka</STRING>
+      <STRING>Vojensko-průmyslový komplex</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Mercenaries">
-      <STRING>Soldiery</STRING>
-      <STRING>Mercenaries</STRING>
-      <STRING>Men-at-Arms</STRING>
-      <STRING>Gunsmiths</STRING>
-      <STRING>National Guard</STRING>
-      <STRING>Combined Arms Tactics</STRING>
-      <STRING>Psychological Warfare</STRING>
-      <STRING>Counter-Insurgency Warfare</STRING>
+      <STRING>Vojsko</STRING>
+      <STRING>Žoldáci</STRING>
+      <STRING>Muži ve zbrani</STRING>
+      <STRING>Střelný prach</STRING>
+      <STRING>Národní garda</STRING>
+      <STRING>Kombinování zbraní</STRING>
+      <STRING>Psychologické válčení</STRING>
+      <STRING>Partyzánská taktika</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Standing Army">
-      <STRING>Armies</STRING>
-      <STRING>Generalship</STRING>
-      <STRING>Standing Army</STRING>
-      <STRING>Ballistics</STRING>
-      <STRING>Quartermaster Corps</STRING>
-      <STRING>Deception</STRING>
-      <STRING>Radar and Sonar</STRING>
-      <STRING>Universal Military Service</STRING>
+      <STRING>Armády</STRING>
+      <STRING>Generalita</STRING>
+      <STRING>Stálá armáda</STRING>
+      <STRING>Balistika</STRING>
+      <STRING>Logistická podpora</STRING>
+      <STRING>Podvodná taktika</STRING>
+      <STRING>Radarová technologie</STRING>
+      <STRING>Profesionální armáda</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Conscription">
-      <STRING>Drill</STRING>
-      <STRING>Military Recruitment</STRING>
-      <STRING>Chivalry and Heraldry</STRING>
-      <STRING>Conscription</STRING>
-      <STRING>Irregular Warfare</STRING>
-      <STRING>Trench Warfare</STRING>
-      <STRING>Guided Munitions</STRING>
-      <STRING>Unified Armed Services</STRING>
+      <STRING>Výcvik</STRING>
+      <STRING>Nábor vojáků</STRING>
+      <STRING>Rytířství</STRING>
+      <STRING>Odvody</STRING>
+      <STRING>Netradiční válčení</STRING>
+      <STRING>Výcvikové metody</STRING>
+      <STRING>Řízená munice</STRING>
+      <STRING>Sjednocené ozbrojené služby</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Levee en Masse">
-      <STRING>Discipline</STRING>
-      <STRING>Grand Strategy</STRING>
-      <STRING>Plate Armor</STRING>
-      <STRING>Regimental System</STRING>
-      <STRING>Levee en Masse</STRING>
-      <STRING>Infiltration Tactics</STRING>
-      <STRING>Partisan Warfare</STRING>
-      <STRING>Precision Weapons</STRING>
+      <STRING>Disciplína</STRING>
+      <STRING>Strategické velení</STRING>
+      <STRING>Plátové brnění</STRING>
+      <STRING>Vojenské hodnosti</STRING>
+      <STRING>Masové odvody</STRING>
+      <STRING>Infiltrace</STRING>
+      <STRING>Partyzánská taktika</STRING>
+      <STRING>Precizní zbraně</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Nation-in-Arms">
-      <STRING>Formation</STRING>
-      <STRING>Military Depots</STRING>
-      <STRING>Laws of War</STRING>
-      <STRING>Morale and Cohesion</STRING>
-      <STRING>Signal Corps</STRING>
-      <STRING>Nation-in-Arms</STRING>
-      <STRING>Combined Operations</STRING>
-      <STRING>Electronic Warfare</STRING>
+      <STRING>Formace</STRING>
+      <STRING>Skladování munice</STRING>
+      <STRING>Zákony války</STRING>
+      <STRING>Morálka</STRING>
+      <STRING>Utajené operace</STRING>
+      <STRING>Národ ve zbrani</STRING>
+      <STRING>Kombinované operace</STRING>
+      <STRING>Elektronická válka</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Selective Service">
-      <STRING>MilitaryTraining</STRING>
-      <STRING>Incendiaries</STRING>
-      <STRING>Military Indenture</STRING>
-      <STRING>Secrecy</STRING>
-      <STRING>Total War</STRING>
-      <STRING>Blitzkrieg</STRING>
-      <STRING>Selective Service</STRING>
-      <STRING>Homeland Security</STRING>
+      <STRING>Vojenský výcvik</STRING>
+      <STRING>Zápalné střely</STRING>
+      <STRING>Vojenské smlouvy</STRING>
+      <STRING>Základy špionáže</STRING>
+      <STRING>Válečné metody</STRING>
+      <STRING>Zákopová válka</STRING>
+      <STRING>Povinná vojenská služba</STRING>
+      <STRING>Národní bezpečnost</STRING>
     </EPOCHTYPE>
   </ALTERNATENAMES>
   <ALTERNATENAMES2>
     <EPOCHTYPE name="Tactics">
-      <STRING>Tactics</STRING>
-      <STRING>Tactics</STRING>
-      <STRING>Tactics</STRING>
-      <STRING>Tactics</STRING>
-      <STRING>Tactics</STRING>
-      <STRING>Tactics</STRING>
-      <STRING>Tactics</STRING>
-      <STRING>Tactics</STRING>
+      <STRING>Taktika</STRING>
+      <STRING>Taktika</STRING>
+      <STRING>Taktika</STRING>
+      <STRING>Taktika</STRING>
+      <STRING>Taktika</STRING>
+      <STRING>Taktika</STRING>
+      <STRING>Taktika</STRING>
+      <STRING>Taktika</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Operations">
-      <STRING>Operations</STRING>
-      <STRING>Operations</STRING>
-      <STRING>Operations</STRING>
-      <STRING>Operations</STRING>
-      <STRING>Operations</STRING>
-      <STRING>Operations</STRING>
-      <STRING>Operations</STRING>
-      <STRING>Operations</STRING>
+      <STRING>Operace</STRING>
+      <STRING>Operace</STRING>
+      <STRING>Operace</STRING>
+      <STRING>Operace</STRING>
+      <STRING>Operace</STRING>
+      <STRING>Operace</STRING>
+      <STRING>Operace</STRING>
+      <STRING>Operace</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Strategy">
-      <STRING>Strategy</STRING>
-      <STRING>Strategy</STRING>
-      <STRING>Strategy</STRING>
-      <STRING>Strategy</STRING>
-      <STRING>Strategy</STRING>
-      <STRING>Strategy</STRING>
-      <STRING>Strategy</STRING>
-      <STRING>Strategy</STRING>
+      <STRING>Strategie</STRING>
+      <STRING>Strategie</STRING>
+      <STRING>Strategie</STRING>
+      <STRING>Strategie</STRING>
+      <STRING>Strategie</STRING>
+      <STRING>Strategie</STRING>
+      <STRING>Strategie</STRING>
+      <STRING>Strategie</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Religion">
-      <STRING>Religion</STRING>
-      <STRING>Religion</STRING>
-      <STRING>Religion</STRING>
-      <STRING>Reformation</STRING>
-      <STRING>Reformation</STRING>
-      <STRING>Theocracy</STRING>
-      <STRING>Theocracy</STRING>
-      <STRING>Theocracy</STRING>
+      <STRING>Religion Náboženství</STRING>
+      <STRING>Religion Náboženství</STRING>
+      <STRING>Religion Náboženství</STRING>
+      <STRING>Religion Reformace</STRING>
+      <STRING>Religion Reformace</STRING>
+      <STRING>Religion Teokracie</STRING>
+      <STRING>Religion Teokracie</STRING>
+      <STRING>Religion Teokracie</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Monotheism">
-      <STRING>Sacred Texts</STRING>
-      <STRING>Sacred Texts</STRING>
-      <STRING>Monotheism</STRING>
-      <STRING>Monotheism</STRING>
-      <STRING>Missionaries</STRING>
-      <STRING>Missionaries</STRING>
-      <STRING>Secularism</STRING>
-      <STRING>Secularism</STRING>
+      <STRING>Monotheism Svaté písmo</STRING>
+      <STRING>Monotheism Svaté písmo</STRING>
+      <STRING>Monotheism Monoteismus</STRING>
+      <STRING>Monotheism Monoteismus</STRING>
+      <STRING>Monotheism Misionáři</STRING>
+      <STRING>Monotheism Misionáři</STRING>
+      <STRING>Monotheism Sekularismus</STRING>
+      <STRING>Monotheism Sekularismus</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Existentialism">
-      <STRING>Clergy</STRING>
-      <STRING>Clergy</STRING>
-      <STRING>Religious Sects</STRING>
-      <STRING>Religious Sects</STRING>
-      <STRING>Existentialism</STRING>
-      <STRING>Existentialism</STRING>
-      <STRING>Existentialism</STRING>
-      <STRING>Existentialism</STRING>
+      <STRING>Existentialism Duchovno</STRING>
+      <STRING>Existentialism Duchovno</STRING>
+      <STRING>Existentialism Náboženské sekty</STRING>
+      <STRING>Existentialism Náboženské sekty</STRING>
+      <STRING>Existentialism Existencialismus</STRING>
+      <STRING>Existentialism Existencialismus</STRING>
+      <STRING>Existentialism Existencialismus</STRING>
+      <STRING>Existentialism Existencialismus</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Taxation">
-      <STRING>Taxation</STRING>
-      <STRING>Taxation</STRING>
-      <STRING>Taxation</STRING>
-      <STRING>Taxation</STRING>
-      <STRING>Taxation</STRING>
-      <STRING>Taxation</STRING>
-      <STRING>Taxation</STRING>
-      <STRING>Taxation</STRING>
+      <STRING>Daně</STRING>
+      <STRING>Daně</STRING>
+      <STRING>Daně</STRING>
+      <STRING>Daně</STRING>
+      <STRING>Daně</STRING>
+      <STRING>Daně</STRING>
+      <STRING>Daně</STRING>
+      <STRING>Daně</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Vassalage">
-      <STRING>Vassalage</STRING>
-      <STRING>Vassalage</STRING>
-      <STRING>Vassalage</STRING>
-      <STRING>Vassalage</STRING>
-      <STRING>Trubute</STRING>
-      <STRING>Trubute</STRING>
-      <STRING>Trubute</STRING>
-      <STRING>Trubute</STRING>
+      <STRING>Vassalage Vazalství</STRING>
+      <STRING>Vassalage Vazalství</STRING>
+      <STRING>Vassalage Vazalství</STRING>
+      <STRING>Vassalage Vazalství</STRING>
+      <STRING>Vassalage Úplatky</STRING>
+      <STRING>Vassalage Úplatky</STRING>
+      <STRING>Vassalage Úplatky</STRING>
+      <STRING>Vassalage Úplatky</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Social Contract">
-      <STRING>Social Contract</STRING>
-      <STRING>Social Contract</STRING>
-      <STRING>Social Contract</STRING>
-      <STRING>Social Contract</STRING>
-      <STRING>Social Contract</STRING>
-      <STRING>Social Contract</STRING>
-      <STRING>Social Contract</STRING>
-      <STRING>Social Contract</STRING>
+      <STRING>Společenská smlouva</STRING>
+      <STRING>Společenská smlouva</STRING>
+      <STRING>Společenská smlouva</STRING>
+      <STRING>Společenská smlouva</STRING>
+      <STRING>Společenská smlouva</STRING>
+      <STRING>Společenská smlouva</STRING>
+      <STRING>Společenská smlouva</STRING>
+      <STRING>Společenská smlouva</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Income Tax">
-      <STRING>Suzerainty</STRING>
-      <STRING>Suzerainty</STRING>
-      <STRING>Suzerainty</STRING>
-      <STRING>Income Tax</STRING>
-      <STRING>Income Tax</STRING>
-      <STRING>Income Tax</STRING>
-      <STRING>Income Tax</STRING>
-      <STRING>Income Tax</STRING>
+      <STRING>Income Tax Svrchovanost</STRING>
+      <STRING>Income Tax Svrchovanost</STRING>
+      <STRING>Income Tax Svrchovanost</STRING>
+      <STRING>Income Tax Výběr daní</STRING>
+      <STRING>Income Tax Výběr daní</STRING>
+      <STRING>Income Tax Výběr daní</STRING>
+      <STRING>Income Tax Výběr daní</STRING>
+      <STRING>Income Tax Výběr daní</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Fortification">
-      <STRING>Fortification</STRING>
-      <STRING>Fortification</STRING>
-      <STRING>Fortification</STRING>
-      <STRING>Fortification</STRING>
-      <STRING>Fortification</STRING>
-      <STRING>Fortification</STRING>
-      <STRING>Fortification</STRING>
-      <STRING>Fortification</STRING>
+      <STRING>Opevnění</STRING>
+      <STRING>Opevnění</STRING>
+      <STRING>Opevnění</STRING>
+      <STRING>Opevnění</STRING>
+      <STRING>Opevnění</STRING>
+      <STRING>Opevnění</STRING>
+      <STRING>Opevnění</STRING>
+      <STRING>Opevnění</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Bombardment">
-      <STRING>Bombardment</STRING>
-      <STRING>Bombardment</STRING>
-      <STRING>Bombardment</STRING>
-      <STRING>Bombardment</STRING>
-      <STRING>Bombardment</STRING>
-      <STRING>Bombardment</STRING>
-      <STRING>Bombardment</STRING>
-      <STRING>Bombardment</STRING>
+      <STRING>Bombardování</STRING>
+      <STRING>Bombardování</STRING>
+      <STRING>Bombardování</STRING>
+      <STRING>Bombardování</STRING>
+      <STRING>Bombardování</STRING>
+      <STRING>Bombardování</STRING>
+      <STRING>Bombardování</STRING>
+      <STRING>Bombardování</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Strategic Reserves">
-      <STRING>Military Engineering</STRING>
-      <STRING>Military Engineering</STRING>
-      <STRING>Military Engineering</STRING>
-      <STRING>Military Engineering</STRING>
-      <STRING>Strategic Reserves</STRING>
-      <STRING>Strategic Reserves</STRING>
-      <STRING>Strategic Reserves</STRING>
-      <STRING>Strategic Reserves</STRING>
+      <STRING>Strategic Reserves Vojenské inženýrství</STRING>
+      <STRING>Strategic Reserves Vojenské inženýrství</STRING>
+      <STRING>Strategic Reserves Vojenské inženýrství</STRING>
+      <STRING>Strategic Reserves Vojenské inženýrství</STRING>
+      <STRING>Strategic Reserves Strategické rezervy</STRING>
+      <STRING>Strategic Reserves Strategické rezervy</STRING>
+      <STRING>Strategic Reserves Strategické rezervy</STRING>
+      <STRING>Strategic Reserves Strategické rezervy</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Allegiance">
-      <STRING>Allegiance</STRING>
-      <STRING>Allegiance</STRING>
-      <STRING>Allegiance</STRING>
-      <STRING>Allegiance</STRING>
-      <STRING>Allegiance</STRING>
-      <STRING>Allegiance</STRING>
-      <STRING>Allegiance</STRING>
-      <STRING>Allegiance</STRING>
+      <STRING>Loajálnost</STRING>
+      <STRING>Loajálnost</STRING>
+      <STRING>Loajálnost</STRING>
+      <STRING>Loajálnost</STRING>
+      <STRING>Loajálnost</STRING>
+      <STRING>Loajálnost</STRING>
+      <STRING>Loajálnost</STRING>
+      <STRING>Loajálnost</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Oath of Fealty">
-      <STRING>Oath of Fealty</STRING>
-      <STRING>Oath of Fealty</STRING>
-      <STRING>Oath of Fealty</STRING>
-      <STRING>Oath of Fealty</STRING>
-      <STRING>Citizenship</STRING>
-      <STRING>Citizenship</STRING>
-      <STRING>Citizenship</STRING>
-      <STRING>Citizenship</STRING>
+      <STRING>Oath of Fealty Přísaha věrnosti</STRING>
+      <STRING>Oath of Fealty Přísaha věrnosti</STRING>
+      <STRING>Oath of Fealty Přísaha věrnosti</STRING>
+      <STRING>Oath of Fealty Přísaha věrnosti</STRING>
+      <STRING>Oath of Fealty Státní občanství</STRING>
+      <STRING>Oath of Fealty Státní občanství</STRING>
+      <STRING>Oath of Fealty Státní občanství</STRING>
+      <STRING>Oath of Fealty Státní občanství</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Patriotism">
-      <STRING>Fatherland</STRING>
-      <STRING>Fatherland</STRING>
-      <STRING>Fatherland</STRING>
-      <STRING>Patriotism</STRING>
-      <STRING>Patriotism</STRING>
-      <STRING>Patriotism</STRING>
-      <STRING>Patriotism</STRING>
-      <STRING>Patriotism</STRING>
+      <STRING>Vlastenectví</STRING>
+      <STRING>Vlastenectví</STRING>
+      <STRING>Vlastenectví</STRING>
+      <STRING>Vlastenectví</STRING>
+      <STRING>Vlastenectví</STRING>
+      <STRING>Vlastenectví</STRING>
+      <STRING>Vlastenectví</STRING>
+      <STRING>Vlastenectví</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Nationalism">
-      <STRING>Nationality</STRING>
-      <STRING>Nationality</STRING>
-      <STRING>Nationality</STRING>
-      <STRING>Nationality</STRING>
-      <STRING>Nationalism</STRING>
-      <STRING>Nationalism</STRING>
-      <STRING>Nationalism</STRING>
-      <STRING>Nationalism</STRING>
+      <STRING>Nationalism Národnost</STRING>
+      <STRING>Nationalism Národnost</STRING>
+      <STRING>Nationalism Národnost</STRING>
+      <STRING>Nationalism Národnost</STRING>
+      <STRING>Nationalism Nacionalismus</STRING>
+      <STRING>Nationalism Nacionalismus</STRING>
+      <STRING>Nationalism Nacionalismus</STRING>
+      <STRING>Nationalism Nacionalismus</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Construction">
-      <STRING>Construction</STRING>
-      <STRING>Construction</STRING>
-      <STRING>Construction</STRING>
-      <STRING>Construction</STRING>
-      <STRING>Construction</STRING>
-      <STRING>Construction</STRING>
-      <STRING>Construction</STRING>
-      <STRING>Construction</STRING>
+      <STRING>Konstrukce</STRING>
+      <STRING>Konstrukce</STRING>
+      <STRING>Konstrukce</STRING>
+      <STRING>Konstrukce</STRING>
+      <STRING>Konstrukce</STRING>
+      <STRING>Konstrukce</STRING>
+      <STRING>Konstrukce</STRING>
+      <STRING>Konstrukce</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Architecture">
-      <STRING>Architecture</STRING>
-      <STRING>Architecture</STRING>
-      <STRING>Architecture</STRING>
-      <STRING>Architecture</STRING>
-      <STRING>Architecture</STRING>
-      <STRING>Architecture</STRING>
-      <STRING>Architecture</STRING>
-      <STRING>Architecture</STRING>
+      <STRING>Architektura</STRING>
+      <STRING>Architektura</STRING>
+      <STRING>Architektura</STRING>
+      <STRING>Architektura</STRING>
+      <STRING>Architektura</STRING>
+      <STRING>Architektura</STRING>
+      <STRING>Architektura</STRING>
+      <STRING>Architektura</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Engineering">
-      <STRING>Engineering</STRING>
-      <STRING>Engineering</STRING>
-      <STRING>Engineering</STRING>
-      <STRING>Engineering</STRING>
-      <STRING>Engineering</STRING>
-      <STRING>Engineering</STRING>
-      <STRING>Engineering</STRING>
-      <STRING>Engineering</STRING>
+      <STRING>Inženýrství</STRING>
+      <STRING>Inženýrství</STRING>
+      <STRING>Inženýrství</STRING>
+      <STRING>Inženýrství</STRING>
+      <STRING>Inženýrství</STRING>
+      <STRING>Inženýrství</STRING>
+      <STRING>Inženýrství</STRING>
+      <STRING>Inženýrství</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Herbal Lore">
-      <STRING>Herba Lore</STRING>
-      <STRING>Herbal Lore</STRING>
-      <STRING>Herba Lore</STRING>
-      <STRING>Herbal Lore</STRING>
-      <STRING>Homeopathy</STRING>
-      <STRING>Homeopathy</STRING>
-      <STRING>Homeopathy</STRING>
-      <STRING>Homeopathy</STRING>
+      <STRING>Herbal Lore Přírodní léčení</STRING>
+      <STRING>Herbal Lore Přírodní léčení</STRING>
+      <STRING>Herbal Lore Přírodní léčení</STRING>
+      <STRING>Herbal Lore Přírodní léčení</STRING>
+      <STRING>Herbal Lore Homeopatie</STRING>
+      <STRING>Herbal Lore Homeopatie</STRING>
+      <STRING>Herbal Lore Homeopatie</STRING>
+      <STRING>Herbal Lore Homeopatie</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Medicine">
-      <STRING>Medicine</STRING>
-      <STRING>Medicine</STRING>
-      <STRING>Medicine</STRING>
-      <STRING>Medicine</STRING>
-      <STRING>Medicine</STRING>
-      <STRING>Preventive Medicine</STRING>
-      <STRING>Preventive Medicine</STRING>
-      <STRING>Preventive Medicine</STRING>
+      <STRING>Medicine Medicína</STRING>
+      <STRING>Medicine Medicína</STRING>
+      <STRING>Medicine Medicína</STRING>
+      <STRING>Medicine Medicína</STRING>
+      <STRING>Medicine Medicína</STRING>
+      <STRING>Medicine Preventivní léčba</STRING>
+      <STRING>Medicine Preventivní léčba</STRING>
+      <STRING>Medicine Preventivní léčba</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Pharmaceuticals">
-      <STRING>Apothecaries</STRING>
-      <STRING>Apothecaries</STRING>
-      <STRING>Apothecaries</STRING>
-      <STRING>Pharmaceuticals</STRING>
-      <STRING>Pharmaceuticals</STRING>
-      <STRING>Pharmaceuticals</STRING>
-      <STRING>Pharmaceuticals</STRING>
-      <STRING>Pharmaceuticals</STRING>
+      <STRING>Pharmaceuticals Lékárnictví</STRING>
+      <STRING>Pharmaceuticals Lékárnictví</STRING>
+      <STRING>Pharmaceuticals Lékárnictví</STRING>
+      <STRING>Pharmaceuticals Léčiva</STRING>
+      <STRING>Pharmaceuticals Léčiva</STRING>
+      <STRING>Pharmaceuticals Léčiva</STRING>
+      <STRING>Pharmaceuticals Léčiva</STRING>
+      <STRING>Pharmaceuticals Léčiva</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Forage">
-      <STRING>Forage</STRING>
-      <STRING>Forage</STRING>
-      <STRING>Forage</STRING>
-      <STRING>Forage</STRING>
-      <STRING>Forage</STRING>
-      <STRING>Forage</STRING>
-      <STRING>Forage</STRING>
-      <STRING>Forage</STRING>
+      <STRING>Pícniny</STRING>
+      <STRING>Pícniny</STRING>
+      <STRING>Pícniny</STRING>
+      <STRING>Pícniny</STRING>
+      <STRING>Pícniny</STRING>
+      <STRING>Pícniny</STRING>
+      <STRING>Pícniny</STRING>
+      <STRING>Pícniny</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Supply">
-      <STRING>Supply</STRING>
-      <STRING>Supply</STRING>
-      <STRING>Supply</STRING>
-      <STRING>Supply</STRING>
-      <STRING>Supply</STRING>
-      <STRING>Supply</STRING>
-      <STRING>Supply</STRING>
-      <STRING>Supply</STRING>
+      <STRING>Zásobování</STRING>
+      <STRING>Zásobování</STRING>
+      <STRING>Zásobování</STRING>
+      <STRING>Zásobování</STRING>
+      <STRING>Zásobování</STRING>
+      <STRING>Zásobování</STRING>
+      <STRING>Zásobování</STRING>
+      <STRING>Zásobování</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Logistics">
-      <STRING>Logistics</STRING>
-      <STRING>Logistics</STRING>
-      <STRING>Logistics</STRING>
-      <STRING>Logistics</STRING>
-      <STRING>Logistics</STRING>
-      <STRING>Logistics</STRING>
-      <STRING>Logistics</STRING>
-      <STRING>Logistics</STRING>
+      <STRING>Logistika</STRING>
+      <STRING>Logistika</STRING>
+      <STRING>Logistika</STRING>
+      <STRING>Logistika</STRING>
+      <STRING>Logistika</STRING>
+      <STRING>Logistika</STRING>
+      <STRING>Logistika</STRING>
+      <STRING>Logistika</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Carpentry">
-      <STRING>Carpentry</STRING>
-      <STRING>Carpentry</STRING>
-      <STRING>Carpentry</STRING>
-      <STRING>Carpentry</STRING>
-      <STRING>Carpentry</STRING>
-      <STRING>Forestry</STRING>
-      <STRING>Forestry</STRING>
-      <STRING>Forestry</STRING>
+      <STRING>Tesařství</STRING>
+      <STRING>Tesařství</STRING>
+      <STRING>Tesařství</STRING>
+      <STRING>Tesařství</STRING>
+      <STRING>Tesařství</STRING>
+      <STRING>Lesnictví</STRING>
+      <STRING>Lesnictví</STRING>
+      <STRING>Lesnictví</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Logging Industry">
-      <STRING>Advanced Carpentry</STRING>
-      <STRING>Advanced Carpentry</STRING>
-      <STRING>Lathe</STRING>
-      <STRING>Logging Industry</STRING>
-      <STRING>Logging Industry</STRING>
-      <STRING>Logging Industry</STRING>
-      <STRING>Logging Industry</STRING>
-      <STRING>Reforestation</STRING>
+      <STRING>Logging Industry Pokročilé tesařství</STRING>
+      <STRING>Logging Industry Pokročilé tesařství</STRING>
+      <STRING>Logging Industry Soustružnictví</STRING>
+      <STRING>Logging Industry Těžba dřeva</STRING>
+      <STRING>Logging Industry Těžba dřeva</STRING>
+      <STRING>Logging Industry Těžba dřeva</STRING>
+      <STRING>Logging Industry Těžba dřeva</STRING>
+      <STRING>Logging Industry Zalesňování</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Papermill">
-      <STRING>Papermill</STRING>
-      <STRING>Papermill</STRING>
-      <STRING>Papermill</STRING>
-      <STRING>Papermill</STRING>
-      <STRING>Papermill</STRING>
-      <STRING>Paper Industry</STRING>
-      <STRING>Paper Industry</STRING>
-      <STRING>Paper Industry</STRING>
+      <STRING>Papermill Papírnictví</STRING>
+      <STRING>Papermill Papírnictví</STRING>
+      <STRING>Papermill Papírnictví</STRING>
+      <STRING>Papermill Papírnictví</STRING>
+      <STRING>Papermill Papírnictví</STRING>
+      <STRING>Papermill Papírenský průmysl</STRING>
+      <STRING>Papermill Papírenský průmysl</STRING>
+      <STRING>Papermill Papírenský průmysl</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Agriculture">
-      <STRING>Agriculture</STRING>
-      <STRING>Agriculture</STRING>
-      <STRING>Agriculture</STRING>
-      <STRING>Agriculture</STRING>
-      <STRING>Agriculture</STRING>
-      <STRING>Agronomics</STRING>
-      <STRING>Agronomics</STRING>
-      <STRING>Agronomics</STRING>
+      <STRING>Agriculture Zemědělství</STRING>
+      <STRING>Agriculture Zemědělství</STRING>
+      <STRING>Agriculture Zemědělství</STRING>
+      <STRING>Agriculture Zemědělství</STRING>
+      <STRING>Agriculture Zemědělství</STRING>
+      <STRING>Agriculture Agronomie</STRING>
+      <STRING>Agriculture Agronomie</STRING>
+      <STRING>Agriculture Agronomie</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Crop Rotation">
-      <STRING>Milling</STRING>
-      <STRING>Milling</STRING>
-      <STRING>Milling</STRING>
-      <STRING>Crop Rotation</STRING>
-      <STRING>Crop Rotation</STRING>
-      <STRING>Soil Conservation</STRING>
-      <STRING>Soil Conservation</STRING>
-      <STRING>Soil Conservation</STRING>
+      <STRING>Crop Rotation Orání</STRING>
+      <STRING>Crop Rotation Orání</STRING>
+      <STRING>Crop Rotation Orání</STRING>
+      <STRING>Crop Rotation Střídání plodin</STRING>
+      <STRING>Crop Rotation Střídání plodin</STRING>
+      <STRING>Crop Rotation Ochrana půdy</STRING>
+      <STRING>Crop Rotation Ochrana půdy</STRING>
+      <STRING>Crop Rotation Ochrana půdy</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Food Industry">
-      <STRING>Food Preservation</STRING>
-      <STRING>Food Preservation</STRING>
-      <STRING>Food Preservation</STRING>
-      <STRING>Food Industry</STRING>
-      <STRING>Food Industry</STRING>
-      <STRING>Food Industry</STRING>
-      <STRING>Refrigeration</STRING>
-      <STRING>Refrigeration</STRING>
+      <STRING>Food Industry Konzervování</STRING>
+      <STRING>Food Industry Konzervování</STRING>
+      <STRING>Food Industry Konzervování</STRING>
+      <STRING>Food Industry Potravinářský průmysl</STRING>
+      <STRING>Food Industry Potravinářský průmysl</STRING>
+      <STRING>Food Industry Potravinářský průmysl</STRING>
+      <STRING>Food Industry Zmrazování</STRING>
+      <STRING>Food Industry Zmrazování</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Literacy">
-      <STRING>Literacy</STRING>
-      <STRING>Literacy</STRING>
-      <STRING>Literacy</STRING>
-      <STRING>Literacy</STRING>
-      <STRING>Rationality</STRING>
-      <STRING>Rationality</STRING>
-      <STRING>Rationality</STRING>
-      <STRING>Rationality</STRING>
+      <STRING>Gramotnost</STRING>
+      <STRING>Gramotnost</STRING>
+      <STRING>Gramotnost</STRING>
+      <STRING>Gramotnost</STRING>
+      <STRING>Gramotnost</STRING>
+      <STRING>Gramotnost</STRING>
+      <STRING>Gramotnost</STRING>
+      <STRING>Gramotnost</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Printing Press">
-      <STRING>Scribes</STRING>
-      <STRING>Scribes</STRING>
-      <STRING>Printing Press</STRING>
-      <STRING>Printing Press</STRING>
-      <STRING>Scholarly Texts</STRING>
-      <STRING>Scholarly Texts</STRING>
-      <STRING>Scholarly Texts</STRING>
-      <STRING>Scholarly Texts</STRING>
+      <STRING>Printing Press Písaři</STRING>
+      <STRING>Printing Press Písaři</STRING>
+      <STRING>Printing Press Tiskařství</STRING>
+      <STRING>Printing Press Tiskařství</STRING>
+      <STRING>Printing Press Encyklopedie</STRING>
+      <STRING>Printing Press Encyklopedie</STRING>
+      <STRING>Printing Press Encyklopedie</STRING>
+      <STRING>Printing Press Encyklopedie</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Scientific Method">
-      <STRING>Socratic Method</STRING>
-      <STRING>Socratic Method</STRING>
-      <STRING>Socratic Method</STRING>
-      <STRING>Scientific Method</STRING>
-      <STRING>Scientific Method</STRING>
-      <STRING>Scientific Method</STRING>
-      <STRING>Scientific Method</STRING>
-      <STRING>Scientific Method</STRING>
+      <STRING>Scientific Method Sokratova metoda</STRING>
+      <STRING>Scientific Method Sokratova metoda</STRING>
+      <STRING>Scientific Method Sokratova metoda</STRING>
+      <STRING>Scientific Method Vědecké metody</STRING>
+      <STRING>Scientific Method Vědecké metody</STRING>
+      <STRING>Scientific Method Vědecké metody</STRING>
+      <STRING>Scientific Method Vědecké metody</STRING>
+      <STRING>Scientific Method Vědecké metody</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Institutional Research">
-      <STRING>Scholarship</STRING>
-      <STRING>Scholarship</STRING>
-      <STRING>Scholarship</STRING>
-      <STRING>Scholarship</STRING>
-      <STRING>Scholarship</STRING>
-      <STRING>Scholarship</STRING>
-      <STRING>Institutional Research</STRING>
-      <STRING>Institutional Research</STRING>
+      <STRING>Institutional Research Stipendium</STRING>
+      <STRING>Institutional Research Stipendium</STRING>
+      <STRING>Institutional Research Stipendium</STRING>
+      <STRING>Institutional Research Stipendium</STRING>
+      <STRING>Institutional Research Stipendium</STRING>
+      <STRING>Institutional Research Stipendium</STRING>
+      <STRING>Institutional Research Institucionální výzkum</STRING>
+      <STRING>Institutional Research Institucionální výzkum</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Supercomputers">
-      <STRING>Academia</STRING>
-      <STRING>Academia</STRING>
-      <STRING>Academia</STRING>
-      <STRING>Academia</STRING>
-      <STRING>Academia</STRING>
-      <STRING>Academia</STRING>
-      <STRING>Supercomputers</STRING>
-      <STRING>Supercomputers</STRING>
+      <STRING>Supercomputers Akademické vzdělání</STRING>
+      <STRING>Supercomputers Akademické vzdělání</STRING>
+      <STRING>Supercomputers Akademické vzdělání</STRING>
+      <STRING>Supercomputers Akademické vzdělání</STRING>
+      <STRING>Supercomputers Akademické vzdělání</STRING>
+      <STRING>Supercomputers Akademické vzdělání</STRING>
+      <STRING>Supercomputers Superpočítače</STRING>
+      <STRING>Supercomputers Superpočítače</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Metal Alloys">
-      <STRING>Metal Alloys</STRING>
-      <STRING>Metal Alloys</STRING>
-      <STRING>Metal Alloys</STRING>
-      <STRING>Metallurgy</STRING>
-      <STRING>Metallurgy</STRING>
-      <STRING>Metallurgy</STRING>
-      <STRING>Metallurgy</STRING>
-      <STRING>Metallurgy</STRING>
+      <STRING>Metal Alloys Slévání kovu</STRING>
+      <STRING>Metal Alloys Slévání kovu</STRING>
+      <STRING>Metal Alloys Slévání kovu</STRING>
+      <STRING>Metal Alloys Metalurgie</STRING>
+      <STRING>Metal Alloys Metalurgie</STRING>
+      <STRING>Metal Alloys Metalurgie</STRING>
+      <STRING>Metal Alloys Metalurgie</STRING>
+      <STRING>Metal Alloys Metalurgie</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Cold Casting">
-      <STRING>Kilns</STRING>
-      <STRING>Kilns</STRING>
-      <STRING>Cold Casting</STRING>
-      <STRING>Cold Casting</STRING>
-      <STRING>Blast Furnace</STRING>
-      <STRING>Blast Furnace</STRING>
-      <STRING>Welding</STRING>
-      <STRING>Welding</STRING>
+      <STRING>Cold Casting Pece</STRING>
+      <STRING>Cold Casting Pece</STRING>
+      <STRING>Cold Casting Studené odlévání</STRING>
+      <STRING>Cold Casting Studené odlévání</STRING>
+      <STRING>Cold Casting Vysoké pece</STRING>
+      <STRING>Cold Casting Vysoké pece</STRING>
+      <STRING>Cold Casting Svařování</STRING>
+      <STRING>Cold Casting Svařování</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Steel">
-      <STRING>Ore Extraction</STRING>
-      <STRING>Ore Extraction</STRING>
-      <STRING>Brass</STRING>
-      <STRING>Brass</STRING>
-      <STRING>Steel</STRING>
-      <STRING>Steel</STRING>
-      <STRING>Steel</STRING>
-      <STRING>Steel</STRING>
+      <STRING>Steel Těžba rudy</STRING>
+      <STRING>Steel Těžba rudy</STRING>
+      <STRING>Steel Mosaz</STRING>
+      <STRING>Steel Mosaz</STRING>
+      <STRING>Steel Ocelářství</STRING>
+      <STRING>Steel Ocelářství</STRING>
+      <STRING>Steel Ocelářství</STRING>
+      <STRING>Steel Ocelářství</STRING>
     </EPOCHTYPE>
   </ALTERNATENAMES2>
 </ROOT>
