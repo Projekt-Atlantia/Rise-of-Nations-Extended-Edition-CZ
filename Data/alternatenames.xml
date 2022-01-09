@@ -17,7 +17,6 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
   <!-- LOCALIZATION: All STRING elements under ALTERNATENAMES/EPOCHTYPE and ALTERNATENAMES2/EPOCHTYPE-->
   <ALTERNATENAMES>
     <EPOCHTYPE name="Written Word">
-      <!-- Hlavní výzkum - Vědecký (1) (Doby: Ancient - Primitivní) -->
       <!-- Hlavní výzkum - Vědecký (1) (Doby: Ancient - Středověk) -->
       <!-- Hlavní výzkum - Vědecký (1) (Doby: Ancient - Střelný prach) -->
       <!-- Hlavní výzkum - Vědecký (1) (Doby: Ancient - Osvícení) -->
@@ -62,7 +61,6 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
     </EPOCHTYPE>
     <EPOCHTYPE name="Mathematics">
       <STRING>Mathematics Zavlažování</STRING>
-      <!-- Hlavní výzkum - Vědecký (2) (Doby: Ancient - Primitivní) -->
       <!-- Hlavní výzkum - Vědecký (2) (Doby: Ancient - Středověk) -->
       <!-- Hlavní výzkum - Vědecký (2) (Doby: Ancient - Střelný prach) -->
       <!-- Hlavní výzkum - Vědecký (2) (Doby: Ancient - Osvícení) -->
@@ -106,7 +104,6 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
     </EPOCHTYPE>
     <EPOCHTYPE name="Chemistry">
       <STRING>Chemistry Pozorování nebes</STRING>
-      <!-- Hlavní výzkum - Vědecký (3) (Doby: Ancient - Primitivní) -->
       <!-- Hlavní výzkum - Vědecký (3) (Doby: Primitivní - Primitivní) -->
       <STRING>Chemistry Vodní energie</STRING>
       <!-- Hlavní výzkum - Vědecký (3) (Doby: Ancient - Středověk) -->
@@ -150,7 +147,6 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
     </EPOCHTYPE>
     <EPOCHTYPE name="Laws of Nature">
       <STRING>Laws of Nature Vliv</STRING>
-      <!-- Hlavní výzkum - Vědecký (4) (Doby: Ancient - Primitivní) -->
       <!-- Hlavní výzkum - Vědecký (4) (Doby: Primitivní - Primitivní) -->
       <STRING>Laws of Nature Teplota</STRING>
       <!-- Hlavní výzkum - Vědecký (4) (Doby: Ancient - Středověk) -->
@@ -194,7 +190,6 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
     </EPOCHTYPE>
     <EPOCHTYPE name="Electricity">
       <STRING>Electricity Kalendář</STRING>
-      <!-- Hlavní výzkum - Vědecký (5) (Doby: Ancient - Primitivní) -->
       <!-- Hlavní výzkum - Vědecký (5) (Doby: Primitivní - Primitivní) -->
       <STRING>Electricity Větrná energie</STRING>
       <!-- Hlavní výzkum - Vědecký (5) (Doby: Ancient - Středověk) -->
@@ -238,7 +233,6 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
     </EPOCHTYPE>
     <EPOCHTYPE name="Electronics">
       <STRING>Electronics Váhy a míry</STRING>
-      <!-- Hlavní výzkum - Vědecký (6) (Doby: Ancient - Primitivní) -->
       <!-- Hlavní výzkum - Vědecký (6) (Doby: Primitivní - Primitivní) -->
       <STRING>Electronics Astrologie</STRING>
       <!-- Hlavní výzkum - Vědecký (6) (Doby: Ancient - Středověk) -->
@@ -282,7 +276,6 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
     </EPOCHTYPE>
     <EPOCHTYPE name="Computerization">
       <STRING>Computerization Přenos tepla</STRING>
-      <!-- Hlavní výzkum - Vědecký (7) (Doby: Ancient - Primitivní) -->
       <!-- Hlavní výzkum - Vědecký (7) (Doby: Primitivní - Primitivní) -->
       <STRING>Computerization Zdravotnictví</STRING>
       <!-- Hlavní výzkum - Vědecký (7) (Doby: Ancient - Středověk) -->
@@ -325,7 +318,6 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <STRING>Computerization Vláknová optika</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Barter">
-      <!-- Hlavní výzkum - Obchodní (1) (Doby: Ancient - Primitivní) -->
       <!-- Hlavní výzkum - Obchodní (1) (Doby: Ancient - Středověk) -->
       <!-- Hlavní výzkum - Obchodní (1) (Doby: Ancient - Střelný prach) -->
       <!-- Hlavní výzkum - Obchodní (1) (Doby: Ancient - Osvícení) -->
@@ -370,7 +362,6 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
     </EPOCHTYPE>
     <EPOCHTYPE name="Coinage">
       <STRING>Coinage Chov zvířat</STRING>
-      <!-- Hlavní výzkum - Obchodní (2) (Doby: Ancient - Primitivní) -->
       <!-- Hlavní výzkum - Obchodní (2) (Doby: Ancient - Středověk) -->
       <!-- Hlavní výzkum - Obchodní (2) (Doby: Ancient - Střelný prach) -->
       <!-- Hlavní výzkum - Obchodní (2) (Doby: Ancient - Osvícení) -->
@@ -414,7 +405,6 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
     </EPOCHTYPE>
     <EPOCHTYPE name="Trade">
       <STRING>Trade Řemeslnictví</STRING>
-      <!-- Hlavní výzkum - Obchodní (3) (Doby: Ancient - Primitivní) -->
       <!-- Hlavní výzkum - Obchodní (3) (Doby: Primitivní - Primitivní) -->
       <STRING>Trade Průzkumnictví</STRING>
       <!-- Hlavní výzkum - Obchodní (3) (Doby: Ancient - Středověk) -->
@@ -458,7 +448,6 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
     </EPOCHTYPE>
     <EPOCHTYPE name="Mercantilism">
       <STRING>Mercantilism Kontejnery</STRING>
-      <!-- Hlavní výzkum - Obchodní (4) (Doby: Ancient - Primitivní) -->
       <!-- Hlavní výzkum - Obchodní (4) (Doby: Primitivní - Primitivní) -->
       <STRING>Mercantilism Psací potřeby</STRING>
       <!-- Hlavní výzkum - Obchodní (4) (Doby: Ancient - Středověk) -->
@@ -502,7 +491,6 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
     </EPOCHTYPE>
     <EPOCHTYPE name="Finance">
       <STRING>Finance Tkaní</STRING>
-      <!-- Hlavní výzkum - Obchodní (5) (Doby: Ancient - Primitivní) -->
       <!-- Hlavní výzkum - Obchodní (5) (Doby: Primitivní - Primitivní) -->
       <STRING>Finance Trámové mosty</STRING>
       <!-- Hlavní výzkum - Obchodní (5) (Doby: Ancient - Středověk) -->
@@ -546,7 +534,6 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
     </EPOCHTYPE>
     <EPOCHTYPE name="Assembly Line">
       <STRING>Assembly Line Kolo</STRING>
-      <!-- Hlavní výzkum - Obchodní (6) (Doby: Ancient - Primitivní) -->
       <!-- Hlavní výzkum - Obchodní (6) (Doby: Primitivní - Primitivní) -->
       <STRING>Assembly Line Počítadlo</STRING>
       <!-- Hlavní výzkum - Obchodní (6) (Doby: Ancient - Středověk) -->
@@ -590,7 +577,6 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
     </EPOCHTYPE>
     <EPOCHTYPE name="Globalization">
       <STRING>Globalization Směrnice</STRING>
-      <!-- Hlavní výzkum - Obchodní (7) (Doby: Ancient - Primitivní) -->
       <!-- Hlavní výzkum - Obchodní (7) (Doby: Primitivní - Primitivní) -->
       <STRING>Globalization Papír a pergamen</STRING>
       <!-- Hlavní výzkum - Obchodní (7) (Doby: Ancient - Středověk) -->
@@ -633,7 +619,6 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <STRING>Globalization Bezdrátové technologie</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="City State">
-      <!-- Hlavní výzkum - Vládní (1) (Doby: Ancient - Primitivní) -->
       <!-- Hlavní výzkum - Vládní (1) (Doby: Ancient - Středověk) -->
       <!-- Hlavní výzkum - Vládní (1) (Doby: Ancient - Střelný prach) -->
       <!-- Hlavní výzkum - Vládní (1) (Doby: Ancient - Osvícení) -->
@@ -678,7 +663,6 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
     </EPOCHTYPE>
     <EPOCHTYPE name="Empire">
       <STRING>Empire Tradice a rituály</STRING>
-      <!-- Hlavní výzkum - Vládní (2) (Doby: Ancient - Primitivní) -->
       <!-- Hlavní výzkum - Vládní (2) (Doby: Ancient - Středověk) -->
       <!-- Hlavní výzkum - Vládní (2) (Doby: Ancient - Střelný prach) -->
       <!-- Hlavní výzkum - Vládní (2) (Doby: Ancient - Osvícení) -->
@@ -722,7 +706,6 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
     </EPOCHTYPE>
     <EPOCHTYPE name="Feudalism">
       <STRING>Feudalism Spisy a dekrety</STRING>
-      <!-- Hlavní výzkum - Vládní (3) (Doby: Ancient - Primitivní) -->
       <!-- Hlavní výzkum - Vládní (3) (Doby: Primitivní - Primitivní) -->
       <STRING>Feudalism Senát</STRING>
       <!-- Hlavní výzkum - Vládní (3) (Doby: Ancient - Středověk) -->
@@ -766,7 +749,6 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
     </EPOCHTYPE>
     <EPOCHTYPE name="Divine Right">
       <STRING>Divine Right Uctívání předků</STRING>
-      <!-- Hlavní výzkum - Vládní (4) (Doby: Ancient - Primitivní) -->
       <!-- Hlavní výzkum - Vládní (4) (Doby: Primitivní - Primitivní) -->
       <STRING>Divine Right Soudci</STRING>
       <!-- Hlavní výzkum - Vládní (4) (Doby: Ancient - Středověk) -->
@@ -810,7 +792,6 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
     </EPOCHTYPE>
     <EPOCHTYPE name="Constitution">
       <STRING>Constitution Vládnoucí shromáždění</STRING>
-      <!-- Hlavní výzkum - Vládní (5) (Doby: Ancient - Primitivní) -->
       <!-- Hlavní výzkum - Vládní (5) (Doby: Primitivní - Primitivní) -->
       <STRING>Constitution Soudnictví</STRING>
       <!-- Hlavní výzkum - Vládní (5) (Doby: Ancient - Středověk) -->
@@ -854,7 +835,6 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
     </EPOCHTYPE>
     <EPOCHTYPE name="Great Power">
       <STRING>Great Power Občanská práva</STRING>
-      <!-- Hlavní výzkum - Vládní (6) (Doby: Ancient - Primitivní) -->
       <!-- Hlavní výzkum - Vládní (6) (Doby: Primitivní - Primitivní) -->
       <STRING>Great Power Legislativa</STRING>
       <!-- Hlavní výzkum - Vládní (6) (Doby: Ancient - Středověk) -->
@@ -898,7 +878,6 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
     </EPOCHTYPE>
     <EPOCHTYPE name="International Law">
       <STRING>International Law Civilní záznamy</STRING>
-      <!-- Hlavní výzkum - Vládní (7) (Doby: Ancient - Primitivní) -->
       <!-- Hlavní výzkum - Vládní (7) (Doby: Primitivní - Primitivní) -->
       <STRING>International Law Morálnost</STRING>
       <!-- Hlavní výzkum - Vládní (7) (Doby: Ancient - Středověk) -->
@@ -941,313 +920,74 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
       <STRING>International Law Nový světový řád</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="The Art of War">
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Ancient - Primitivní) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Ancient - Středověk) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Ancient - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Ancient - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Ancient - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Ancient - Moderní) -->
-      <STRING>The Art of War Umění války</STRING>
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Primitivní - Primitivní) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Primitivní - Středověk) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Primitivní - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Primitivní - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Primitivní - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Primitivní - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Primitivní - Informační) -->
-      <STRING>The Art of War Důstojnický sbor</STRING>
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Středověk - Středověk) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Středověk - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Středověk - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Středověk - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Středověk - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Středověk - Informační) -->
-      <STRING>The Art of War Feudální dávky</STRING>
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Střelný prach - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Střelný prach - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Střelný prach - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Střelný prach - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Střelný prach - Informační) -->
-      <STRING>The Art of War Palebná síla</STRING>
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Osvícení - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Osvícení - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Osvícení - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Osvícení - Informační) -->
-      <STRING>The Art of War Vojenská akademie</STRING>
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Industriální - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Industriální - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Industriální - Informační) -->
-      <STRING>The Art of War Generální štáb</STRING>
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Moderní - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Moderní - Informační) -->
-      <STRING>The Art of War Vojenská rozvědka</STRING>
-      <!-- Hlavní výzkum - Vojenský (1) (Doby: Informační - Informační) -->
-      <STRING>The Art of War Vojensko-průmyslový komplex</STRING>
+      <STRING>Umění války</STRING>
+      <STRING>Vojevůdci</STRING>
+      <STRING>Vazalství</STRING>
+      <STRING>Vylepšená výroba zbraní</STRING>
+      <STRING>Vojenská akademie</STRING>
+      <STRING>Generální štáb</STRING>
+      <STRING>Vojenská rozvědka</STRING>
+      <STRING>Vojensko-průmyslový komplex</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Mercenaries">
-      <STRING>Mercenaries Vojsko</STRING>
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Ancient - Primitivní) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Ancient - Středověk) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Ancient - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Ancient - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Ancient - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Ancient - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Primitivní - Primitivní) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Primitivní - Středověk) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Primitivní - Středověk) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Primitivní - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Primitivní - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Primitivní - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Primitivní - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Primitivní - Informační) -->
-      <STRING>Mercenaries Žoldáci</STRING>
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Středověk - Středověk) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Středověk - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Středověk - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Středověk - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Středověk - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Středověk - Informační) -->
-      <STRING>Mercenaries Muži ve zbrani</STRING>
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Střelný prach - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Střelný prach - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Střelný prach - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Střelný prach - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Střelný prach - Informační) -->
-      <STRING>Mercenaries Puškaři</STRING>
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Osvícení - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Osvícení - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Osvícení - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Osvícení - Informační) -->
-      <STRING>Mercenaries Národní garda</STRING>
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Industriální - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Industriální - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Industriální - Informační) -->
-      <STRING>Mercenaries Taktika kombinovaných zbraní</STRING>
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Moderní - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Moderní - Informační) -->
-      <STRING>Mercenaries Psychologická válka</STRING>
-      <!-- Hlavní výzkum - Vojenský (2) (Doby: Informační - Informační) -->
-      <STRING>Mercenaries Protipovstalecká válka</STRING>
+      <STRING>Vojsko</STRING>
+      <STRING>Žoldáci</STRING>
+      <STRING>Muži ve zbrani</STRING>
+      <STRING>Střelný prach</STRING>
+      <STRING>Národní garda</STRING>
+      <STRING>Kombinování zbraní</STRING>
+      <STRING>Psychologické válčení</STRING>
+      <STRING>Partyzánská taktika</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Standing Army">
-      <STRING>Standing Army Armády</STRING>
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Ancient - Primitivní) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Primitivní - Primitivní) -->
-      <STRING>Standing Army Generalita</STRING>
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Ancient - Středověk) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Ancient - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Ancient - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Ancient - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Ancient - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Primitivní - Středověk) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Primitivní - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Primitivní - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Primitivní - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Primitivní - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Primitivní - Informační) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Středověk - Středověk) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Středověk - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Středověk - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Středověk - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Středověk - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Středověk - Informační) -->
-      <STRING>Standing Army Stálá armáda</STRING>
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Střelný prach - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Střelný prach - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Střelný prach - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Střelný prach - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Střelný prach - Informační) -->
-      <STRING>Standing Army Balistika</STRING>
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Osvícení - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Osvícení - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Osvícení - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Osvícení - Informační) -->
-      <STRING>Standing Army Logistická podpora</STRING>
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Industriální - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Industriální - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Industriální - Informační) -->
-      <STRING>Standing Army Klamání</STRING>
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Moderní - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Moderní - Informační) -->
-      <STRING>Standing Army Radar a sonar</STRING>
-      <!-- Hlavní výzkum - Vojenský (3) (Doby: Informační - Informační) -->
-      <STRING>Standing Army Univerzální armádní služby</STRING>
+      <STRING>Armády</STRING>
+      <STRING>Generalita</STRING>
+      <STRING>Stálá armáda</STRING>
+      <STRING>Balistika</STRING>
+      <STRING>Logistická podpora</STRING>
+      <STRING>Podvodná taktika</STRING>
+      <STRING>Radarová technologie</STRING>
+      <STRING>Profesionální armáda</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Conscription">
-      <STRING>Conscription Výcvik</STRING>
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Ancient - Primitivní) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Primitivní - Primitivní) -->
-      <STRING>Conscription Nábor vojáků</STRING>
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Ancient - Středověk) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Primitivní - Středověk) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Středověk - Středověk) -->
-      <STRING>Conscription Rytířství</STRING>
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Ancient - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Ancient - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Ancient - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Ancient - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Primitivní - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Primitivní - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Primitivní - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Primitivní - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Primitivní - Informační) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Středověk - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Středověk - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Středověk - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Středověk - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Středověk - Informační) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Střelný prach - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Střelný prach - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Střelný prach - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Střelný prach - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Střelný prach - Informační) -->
-      <STRING>Conscription Branná povinnost</STRING>
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Osvícení - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Osvícení - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Osvícení - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Osvícení - Informační) -->
-      <STRING>Conscription Nepravidelná válka</STRING>
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Industriální - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Industriální - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Industriální - Informační) -->
-      <STRING>Conscription Zákopová válka</STRING>
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Moderní - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Moderní - Informační) -->
-      <STRING>Conscription Řízená munice</STRING>
-      <!-- Hlavní výzkum - Vojenský (4) (Doby: Informační - Informační) -->
-      <STRING>Conscription Sjednocené ozbrojené služby</STRING>
+      <STRING>Výcvik</STRING>
+      <STRING>Nábor vojáků</STRING>
+      <STRING>Rytířství</STRING>
+      <STRING>Odvody</STRING>
+      <STRING>Netradiční válčení</STRING>
+      <STRING>Výcvikové metody</STRING>
+      <STRING>Řízená munice</STRING>
+      <STRING>Sjednocené ozbrojené služby</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Levee en Masse">
-      <STRING>Levee en Masse Disciplína</STRING>
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Ancient - Primitivní) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Primitivní - Primitivní) -->
-      <STRING>Levee en Masse Strategie</STRING>
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Ancient - Středověk) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Primitivní - Středověk) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Středověk - Středověk) -->
-      <STRING>Levee en Masse Plátové brnění</STRING>
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Ancient - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Primitivní - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Středověk - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Střelný prach - Střelný prach) -->
-      <STRING>Levee en Masse Vojenské hodnosti</STRING>
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Ancient - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Ancient - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Ancient - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Primitivní - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Primitivní - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Primitivní - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Primitivní - Informační) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Středověk - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Středověk - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Středověk - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Středověk - Informační) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Střelný prach - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Střelný prach - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Střelný prach - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Střelný prach - Informační) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Osvícení - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Osvícení - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Osvícení - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Osvícení - Informační) -->
-      <STRING>Levee en Masse Masové odvody</STRING>
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Industriální - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Industriální - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Industriální - Informační) -->
-      <STRING>Levee en Masse Taktika infiltrace</STRING>
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Moderní - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Moderní - Informační) -->
-      <STRING>Levee en Masse Partyzánská taktika</STRING>
-      <!-- Hlavní výzkum - Vojenský (5) (Doby: Informační - Informační) -->
-      <STRING>Levee en Masse Precizní zbraně</STRING>
+      <STRING>Disciplína</STRING>
+      <STRING>Strategické velení</STRING>
+      <STRING>Plátové brnění</STRING>
+      <STRING>Vojenské hodnosti</STRING>
+      <STRING>Masové odvody</STRING>
+      <STRING>Infiltrace</STRING>
+      <STRING>Partyzánská taktika</STRING>
+      <STRING>Precizní zbraně</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Nation-in-Arms">
-      <STRING>Nation-in-Arms Formace</STRING>
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Ancient - Primitivní) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Primitivní - Primitivní) -->
-      <STRING>Nation-in-Arms Vojenské sklady</STRING>
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Ancient - Středověk) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Primitivní - Středověk) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Středověk - Středověk) -->
-      <STRING>Nation-in-Arms Vojenské právo</STRING>
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Ancient - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Primitivní - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Středověk - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Střelný prach - Střelný prach) -->
-      <STRING>Nation-in-Arms Morálka</STRING>
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Ancient - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Primitivní - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Středověk - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Střelný prach - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Osvícení - Osvícení) -->
-      <STRING>Nation-in-Arms Signalizace</STRING>
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Ancient - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Ancient - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Primitivní - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Primitivní - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Primitivní - Informační) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Středověk - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Středověk - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Středověk - Informační) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Střelný prach - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Střelný prach - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Střelný prach - Informační) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Osvícení - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Osvícení - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Osvícení - Informační) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Industriální - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Industriální - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Industriální - Informační) -->
-      <STRING>Nation-in-Arms Národ ve zbrani</STRING>
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Moderní - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Moderní - Informační) -->
-      <STRING>Nation-in-Arms Kombinované operace</STRING>
-      <!-- Hlavní výzkum - Vojenský (6) (Doby: Informační - Informační) -->
-      <STRING>Nation-in-Arms Elektronická válka</STRING>
+      <STRING>Formace</STRING>
+      <STRING>Skladování munice</STRING>
+      <STRING>Zákony války</STRING>
+      <STRING>Morálka</STRING>
+      <STRING>Utajené operace</STRING>
+      <STRING>Národ ve zbrani</STRING>
+      <STRING>Kombinované operace</STRING>
+      <STRING>Elektronická válka</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Selective Service">
-      <STRING>Selective Service Vojenský výcvik</STRING>
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Ancient - Primitivní) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Primitivní - Primitivní) -->
-      <STRING>Selective Service Podpalovače</STRING>
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Ancient - Středověk) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Primitivní - Středověk) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Středověk - Středověk) -->
-      <STRING>Selective Service Vojenská služba</STRING>
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Ancient - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Primitivní - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Středověk - Střelný prach) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Střelný prach - Střelný prach) -->
-      <STRING>Selective Service Utajení</STRING>
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Ancient - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Primitivní - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Středověk - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Střelný prach - Osvícení) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Osvícení - Osvícení) -->
-      <STRING>Selective Service Totální válka</STRING>
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Ancient - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Primitivní - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Středověk - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Střelný prach - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Osvícení - Industriální) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Industriální - Industriální) -->
-      <STRING>Selective Service Blesková válka</STRING>
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Ancient - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Primitivní - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Primitivní - Informační) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Středověk - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Středověk - Informační) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Střelný prach - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Střelný prach - Informační) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Osvícení - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Osvícení - Informační) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Industriální - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Industriální - Informační) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Moderní - Moderní) -->
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Moderní - Informační) -->
-      <STRING>Selective Service Selektivní služba</STRING>
-      <!-- Hlavní výzkum - Vojenský (7) (Doby: Informační - Informační) -->
-      <STRING>Selective Service Domobrana</STRING>
+      <STRING>Vojenský výcvik</STRING>
+      <STRING>Zápalné střely</STRING>
+      <STRING>Vojenské smlouvy</STRING>
+      <STRING>Základy špionáže</STRING>
+      <STRING>Válečné metody</STRING>
+      <STRING>Zákopová válka</STRING>
+      <STRING>Povinná vojenská služba</STRING>
+      <STRING>Národní bezpečnost</STRING>
     </EPOCHTYPE>
   </ALTERNATENAMES>
   <ALTERNATENAMES2>
