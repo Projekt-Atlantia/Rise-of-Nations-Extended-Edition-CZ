@@ -27,6 +27,6 @@ https://github.com/Projekt-Atlantia/Rise-of-Nations-Extended-Edition-CZ/releases
 - Překlad názvů dob civilizace.
 - Překlad hlavních výzkumů, vojenská část.
 
-[url=https://github.com/Projekt-Atlantia/Rise-of-Nations-Extended-Edition-CZ/compare/0.0...22.01-01]Zobrazit úplný seznam změn[/url]
+[url=https://github.com/Projekt-Atlantia/Rise-of-Nations-Extended-Edition-CZ/compare/0.0-00...22.01-01]Zobrazit úplný seznam změn[/url]
 
 Aktuální postup prací lze sledovat na [url=https://github.com/Projekt-Atlantia/Rise-of-Nations-Extended-Edition-CZ/tree/Beta]GitHub repozitáři[/url].
