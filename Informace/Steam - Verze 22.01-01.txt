@@ -1,0 +1,32 @@
+-- Nadpis --
+
+Rise of Nations: Extended Edition - Čeština [22.01-01]
+
+-- Text --
+
+[h1]Oznámení o vydání nové verze překladu[/h1]
+
+[b]Projekt Atlantia[/b] si dovoluje oznámit, že byla vydáná nová verze překladu hry
+
+https://store.steampowered.com/app/287450
+
+[h1]Informace o hře[/h1]
+[b]Rise of Nations: Extended Edition[/b] je strategiská hra z dílen studií [b]Big Huge Games[/b]
+a [b]SkyBox Labs[/b] vydaná roku [i]2017[/i] jako HD předělávka původní hry
+[b]Rise of Nations: Thrones and Patriots[/b] vydané roku [i]2004[/i].
+
+[h1]Získání překladu[/h1]
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2705269592
+
+[b][u]Přímé stažení[/u][/b]
+
+https://github.com/Projekt-Atlantia/Rise-of-Nations-Extended-Edition-CZ/releases/tag/22.01-01
+
+[h1]Informace o vývoji[/h1]
+- Překlad názvů dob civilizace.
+- Překlad hlavních výzkumů, vojenská část.
+
+[url=https://github.com/Projekt-Atlantia/Rise-of-Nations-Extended-Edition-CZ/compare/0.0...22.01-01]Zobrazit úplný seznam změn[/url]
+
+Aktuální postup prací lze sledovat na [url=https://github.com/Projekt-Atlantia/Rise-of-Nations-Extended-Edition-CZ/tree/Beta]GitHub repozitáři[/url].
