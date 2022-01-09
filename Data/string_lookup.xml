@@ -681,34 +681,34 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
 		<STRING hash="756149052" hash_i="755593566" needed="1">Appears in battle as a Commando with double hit points, fast snipe and sabotage. On the strategic map, Paoli can liberate another nation's vassal.</STRING>
 	</CAT>
 	<CAT hash="2909936">
-		<STRING hash="7689646" hash_i="7757352" needed="1">Achievements</STRING>
-		<STRING hash="3975033" hash_i="3982495" needed="1">Main Menu</STRING>
-		<STRING hash="923135" hash_i="998527" needed="1">Close</STRING>
-		<STRING hash="686598" hash_i="670742" needed="1">Game</STRING>
-		<STRING hash="1095973" hash_i="1074151" needed="1">Score</STRING>
-		<STRING hash="3518863" hash_i="3501657" needed="1">Military</STRING>
-		<STRING hash="771111" hash_i="756973" needed="1">Econ</STRING>
-		<STRING hash="3666487" hash_i="3645045" needed="1">Research</STRING>
-		<STRING hash="1083102" hash_i="1067246" needed="1">Glory</STRING>
-		<STRING hash="821524" hash_i="799702" needed="1">Speed</STRING>
-		<STRING hash="6578330" hash_i="6593932" needed="1">Score Graph</STRING>
-		<STRING hash="11031296" hash_i="11120138" needed="1">Military Graph</STRING>
-		<STRING hash="12357488" hash_i="12444598" needed="1">Territory Graph</STRING>
-		<STRING hash="10960775" hash_i="11045381" needed="1">Resource Graph</STRING>
-		<STRING hash="5497623" hash_i="5507885" needed="1">Tech Graph</STRING>
+		<STRING hash="7689646" hash_i="7757352" needed="1">Ocenění</STRING>
+		<STRING hash="3975033" hash_i="3982495" needed="1">Hlavní menu</STRING>
+		<STRING hash="923135" hash_i="998527" needed="1">Zavřít</STRING>
+		<STRING hash="686598" hash_i="670742" needed="1">Hra</STRING>
+		<STRING hash="1095973" hash_i="1074151" needed="1">Skóre</STRING>
+		<STRING hash="3518863" hash_i="3501657" needed="1">Vojenské</STRING>
+		<STRING hash="771111" hash_i="756973" needed="1">Ekonomické</STRING>
+		<STRING hash="3666487" hash_i="3645045" needed="1">Výzkumné</STRING>
+		<STRING hash="1083102" hash_i="1067246" needed="1">Sláva</STRING>
+		<STRING hash="821524" hash_i="799702" needed="1">Rychlost</STRING>
+		<STRING hash="6578330" hash_i="6593932" needed="1">Graf skóre</STRING>
+		<STRING hash="11031296" hash_i="11120138" needed="1">Graf armády</STRING>
+		<STRING hash="12357488" hash_i="12444598" needed="1">Graf území</STRING>
+		<STRING hash="10960775" hash_i="11045381" needed="1">Graf surovin</STRING>
+		<STRING hash="5497623" hash_i="5507885" needed="1">Graf výzkumu</STRING>
 		<STRING hash="2721837" hash_i="2699331" needed="1">Timeline</STRING>
-		<STRING hash="9586178" hash_i="9624946" needed="1">Learn to Play</STRING>
-		<STRING hash="4023686" hash_i="4034632" needed="1">Solo Game</STRING>
-		<STRING hash="14113984" hash_i="14194906" needed="1">Multiplayer Game</STRING>
-		<STRING hash="16500687" hash_i="16535783" needed="1">Options &amp; Profiles</STRING>
-		<STRING hash="11006481" hash_i="11079901" needed="1">Tools &amp; Extras</STRING>
-		<STRING hash="658084" hash_i="643946" needed="1">Exit</STRING>
+		<STRING hash="9586178" hash_i="9624946" needed="1">Naučit se hrát</STRING>
+		<STRING hash="4023686" hash_i="4034632" needed="1">Hra jednoho hráče</STRING>
+		<STRING hash="14113984" hash_i="14194906" needed="1">Hra více hráčů</STRING>
+		<STRING hash="16500687" hash_i="16535783" needed="1">Nastavení</STRING>
+		<STRING hash="11006481" hash_i="11079901" needed="1">Nástroje</STRING>
+		<STRING hash="658084" hash_i="643946" needed="1">Ukončit</STRING>
 		<STRING hash="8929486" hash_i="8999528" needed="1">Tutorial Menu</STRING>
-		<STRING hash="1255743" hash_i="1233921" needed="1">Start</STRING>
-		<STRING hash="935119" hash_i="1007993" needed="1">Back</STRING>
+		<STRING hash="1255743" hash_i="1233921" needed="1">Spustit</STRING>
+		<STRING hash="935119" hash_i="1007993" needed="1">Zpět</STRING>
 		<STRING hash="877696" hash_i="858044" needed="1">Okay</STRING>
 		<STRING hash="10781766" hash_i="10807450" needed="1">Reset Defaults</STRING>
-		<STRING hash="1878427" hash_i="1953819" needed="1">Cancel</STRING>
+		<STRING hash="1878427" hash_i="1953819" needed="1">Zrušit</STRING>
 		<STRING hash="4690900" hash_i="4672016" needed="1">Game Speed</STRING>
 		<STRING hash="13552917" hash_i="13624975" needed="1">Difficulty Level</STRING>
 		<STRING hash="19865577" hash_i="20006103" needed="1">Help Message Detail</STRING>
@@ -785,13 +785,13 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
 		<STRING hash="1407606" hash_i="1393136" needed="1">Delete</STRING>
 		<STRING hash="3070132" hash_i="3114116" needed="1">Add Name</STRING>
 		<STRING hash="6250378" hash_i="6247700" needed="1">Delete Name</STRING>
-		<STRING hash="11773555" hash_i="11874961" needed="1">Scenario Editor</STRING>
-		<STRING hash="5003860" hash_i="4972912" needed="1">Skill Test</STRING>
+		<STRING hash="11773555" hash_i="11874961" needed="1">Editor scénářů</STRING>
+		<STRING hash="5003860" hash_i="4972912" needed="1">Dovednostní test</STRING>
 		<STRING hash="13721217" hash_i="14193451" needed="1">Script Editor IDE</STRING>
 		<STRING hash="16525213" hash_i="17090437" needed="1">Unit Balance Tool</STRING>
 		<STRING hash="14718304" hash_i="15144794" needed="1">Map Balance Tool</STRING>
-		<STRING hash="7311227" hash_i="7869125" needed="1">View Credits</STRING>
-		<STRING hash="24604858" hash_i="24758760" needed="1">About Rise of Nations</STRING>
+		<STRING hash="7311227" hash_i="7869125" needed="1">Vývojáři</STRING>
+		<STRING hash="24604858" hash_i="24758760" needed="1">O Rise of Nations</STRING>
 		<STRING hash="653244" hash_i="580008" needed="1">MOTD</STRING>
 		<STRING hash="5451217" hash_i="5421247" needed="1">Patch Test</STRING>
 		<STRING hash="1911187" hash_i="1889365" needed="1">Select</STRING>
@@ -840,7 +840,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
 		<STRING hash="928596" hash_i="1266708" needed="1">CLEAR</STRING>
 		<STRING hash="1366925" hash_i="1346081" needed="1">Peace</STRING>
 		<STRING hash="669166" hash_i="736872" needed="1">Ally</STRING>
-		<STRING hash="8782237" hash_i="8805295" needed="1">Script Editor</STRING>
+		<STRING hash="8782237" hash_i="8805295" needed="1">Editor scriptů</STRING>
 		<STRING hash="3177121" hash_i="3420233" needed="1">Close IDE</STRING>
 		<STRING hash="14667037" hash_i="14797045" needed="1">Open From File...</STRING>
 		<STRING hash="25465449" hash_i="25489871" needed="1">Open Loaded Script...</STRING>
@@ -871,16 +871,16 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
 		<STRING hash="18336361" hash_i="18573695" needed="1">Compile &amp; Step Into</STRING>
 		<STRING hash="13272702" hash_i="13297268" needed="1">Select a Script</STRING>
 		<STRING hash="60843" hash_i="36329" needed="1">X</STRING>
-		<STRING hash="7943953" hash_i="8581341" needed="1">Quick Battle</STRING>
-		<STRING hash="39472655" hash_i="41488085" needed="1">Conquer the World Campaign</STRING>
-		<STRING hash="13452927" hash_i="13418935" needed="1">Load a Scenario</STRING>
-		<STRING hash="12083713" hash_i="12168341" needed="1">Load Saved Game</STRING>
-		<STRING hash="31467542" hash_i="31601472" needed="1">Recorded Game Playback</STRING>
+		<STRING hash="7943953" hash_i="8581341" needed="1">Standartní hra</STRING>
+		<STRING hash="39472655" hash_i="41488085" needed="1">Obsazení světa</STRING>
+		<STRING hash="13452927" hash_i="13418935" needed="1">Načíst scénář</STRING>
+		<STRING hash="12083713" hash_i="12168341" needed="1">Načíst hru</STRING>
+		<STRING hash="31467542" hash_i="31601472" needed="1">Záznamy her</STRING>
 		<STRING hash="14723823" hash_i="14786869" needed="1">Conquer the World</STRING>
-		<STRING hash="8147586" hash_i="8573920" needed="1">New Campaign</STRING>
-		<STRING hash="15996944" hash_i="17090864" needed="1">Continue Campaign</STRING>
-		<STRING hash="9604089" hash_i="10166945" needed="1">Load Campaign</STRING>
-		<STRING hash="5764344" hash_i="5749874" needed="1">Difficulty</STRING>
+		<STRING hash="8147586" hash_i="8573920" needed="1">Nová kampaň</STRING>
+		<STRING hash="15996944" hash_i="17090864" needed="1">Pokračovat v kampani</STRING>
+		<STRING hash="9604089" hash_i="10166945" needed="1">Načíst kampaň</STRING>
+		<STRING hash="5764344" hash_i="5749874" needed="1">Obtížnost</STRING>
 		<STRING hash="8861679" hash_i="9043119" needed="1">Conquest Game</STRING>
 		<STRING hash="18876752" hash_i="19046972" needed="1">Conquest Interface</STRING>
 		<STRING hash="6465100" hash_i="7214134" needed="1">Bonus Cards</STRING>
@@ -906,7 +906,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
 		<STRING hash="2042215" hash_i="2020393" needed="1">Stance</STRING>
 		<STRING hash="2841814" hash_i="2909520" needed="1">Attitude</STRING>
 		<STRING hash="19410681" hash_i="22075293" needed="1">Choose a Bonus Card</STRING>
-		<STRING hash="161441" hash_i="123533" needed="1">OK</STRING>
+		<STRING hash="161441" hash_i="123533" needed="1">Ano</STRING>
 		<STRING hash="9505553" hash_i="9533545" needed="1">Buy Territory</STRING>
 		<STRING hash="29719515" hash_i="31111817" needed="1">Propose Peace/Alliance</STRING>
 		<STRING hash="8129791" hash_i="8119303" needed="1">Declare War!</STRING>
@@ -924,7 +924,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
 		<STRING hash="49084535" hash_i="49280515" needed="1">Steam Internet Matchmaking</STRING>
 		<STRING hash="85180286" hash_i="86710302" needed="1">Local Area Network or Direct Internet</STRING>
 		<STRING hash="10817260" hash_i="11566294" needed="1">Begin Campaign</STRING>
-		<STRING hash="15510563" hash_i="15747603" needed="1">Back to Main Menu</STRING>
+		<STRING hash="15510563" hash_i="15747603" needed="1">Zpět</STRING>
 		<STRING hash="1559857" hash_i="1519511" needed="1">BONUS!</STRING>
 		<STRING hash="2928789" hash_i="3004181" needed="1">Continue</STRING>
 		<STRING hash="9989659" hash_i="10095371" needed="1">Solo Game Menu</STRING>
@@ -1170,7 +1170,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
 		<STRING hash="5447158" hash_i="5542886" needed="1">Custom Map</STRING>
 		<STRING hash="12880352" hash_i="12940398" needed="1">Select a Nation</STRING>
 		<STRING hash="11198245" hash_i="11852583" needed="1">Start Campaign</STRING>
-		<STRING hash="43258059" hash_i="45273489" needed="1">Conquer the World Campaigns</STRING>
+		<STRING hash="43258059" hash_i="45273489" needed="1">Dobýt svět</STRING>
 		<STRING hash="2213284" hash_i="2192440" needed="1">Propose</STRING>
 		<STRING hash="557136" hash_i="557136" needed="1">...</STRING>
 		<STRING hash="4916629" hash_i="4887851" needed="1">Offer Type</STRING>
@@ -1197,7 +1197,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=270526959
 		<STRING hash="2287567" hash_i="2235461" needed="1">No Rush</STRING>
 		<STRING hash="7466821" hash_i="7487223" needed="1">Sudden Death</STRING>
 		<STRING hash="28999951" hash_i="29139981" needed="1">Survival of the Fittest</STRING>
-		<STRING hash="33575821" hash_i="33945187" needed="1">Back to Multiplayer Menu</STRING>
+		<STRING hash="33575821" hash_i="33945187" needed="1">Zpět</STRING>
 		<STRING hash="5321510" hash_i="5306082" needed="1">Fullscreen</STRING>
 		<STRING hash="5362972" hash_i="5306082" needed="1">Fullscreen</STRING>
 		<STRING hash="5872336" hash_i="5853452" needed="1">Game Stats</STRING>
